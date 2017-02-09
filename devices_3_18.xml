@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="sony" fetch="https://github.com/sonyxperiadev/" />
+<project path="device/sony/sepolicy" name="device-sony-sepolicy" groups="device" remote="sony" revision="master" />
+<project path="device/sony/common" name="device-sony-common" groups="device" remote="sony" revision="master" />
+<project path="device/sony/common-init" name="device-sony-common-init" groups="device" remote="sony" revision="master" />
+<project path="device/sony/dora" name="device-sony-dora" groups="device" remote="sony" revision="master" />
+<project path="device/sony/kanuti" name="device-sony-kanuti" groups="device" remote="sony" revision="master" />
+<project path="device/sony/kugo" name="device-sony-kugo" groups="device" remote="sony" revision="master" />
+<project path="device/sony/loire" name="device-sony-loire" groups="device" remote="sony" revision="master" />
+<project path="device/sony/ivy" name="device-sony-ivy" groups="device" remote="sony" revision="master" />
+<project path="device/sony/kagura" name="device-sony-kagura" groups="device" remote="sony" revision="master" />
+<project path="device/sony/karin" name="device-sony-karin" groups="device" remote="sony" revision="master" />
+<project path="device/sony/karin_windy" name="device-sony-karin_windy" groups="device" remote="sony" revision="master" />
+<project path="device/sony/kitakami" name="device-sony-kitakami" groups="device" remote="sony" revision="master" />
+<project path="device/sony/satsuki" name="device-sony-satsuki" groups="device" remote="sony" revision="master" />
+<project path="device/sony/sumire" name="device-sony-sumire" groups="device" remote="sony" revision="master" />
+<project path="device/sony/suzuran" name="device-sony-suzuran" groups="device" remote="sony" revision="master" />
+<project path="device/sony/suzu" name="device-sony-suzu" groups="device" remote="sony" revision="master" />
+<project path="device/sony/tone" name="device-sony-tone" groups="device" remote="sony" revision="master" />
+<project path="device/sony/tulip" name="device-sony-tulip" groups="device" remote="sony" revision="master" />
+</manifest>
