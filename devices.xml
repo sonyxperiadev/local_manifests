@@ -2,30 +2,40 @@
 <manifest>
 <remote name="sony" fetch="https://github.com/sonyxperiadev/" />
 <project path="device/sony/sepolicy" name="device-sony-sepolicy" groups="device" remote="sony" revision="n-mr1" />
+<project path="device/sony/common" name="device-sony-common" groups="device" remote="sony" revision="n-mr1" />
+<project path="device/sony/common-init" name="device-sony-common-init" groups="device" remote="sony" revision="n-mr1" />
+
+<!--msm8974-->
+<project path="device/sony/rhine" name="device-sony-rhine" groups="device" remote="sony" revision="n-mr1" />
 <project path="device/sony/amami" name="device-sony-amami" groups="device" remote="sony" revision="n-mr1" />
+<project path="device/sony/honami" name="device-sony-honami" groups="device" remote="sony" revision="n-mr1" />
+<project path="device/sony/togari" name="device-sony-togari" groups="device" remote="sony" revision="n-mr1" />
+
+<!--msm8974-->
+<project path="device/sony/shinano" name="device-sony-shinano" groups="device" remote="sony" revision="n-mr1" />
 <project path="device/sony/aries" name="device-sony-aries" groups="device" remote="sony" revision="n-mr1" />
 <project path="device/sony/castor" name="device-sony-castor" groups="device" remote="sony" revision="n-mr1" />
 <project path="device/sony/castor_windy" name="device-sony-castor_windy" groups="device" remote="sony" revision="n-mr1" />
-<project path="device/sony/common" name="device-sony-common" groups="device" remote="sony" revision="n-mr1" />
-<project path="device/sony/common-init" name="device-sony-common-init" groups="device" remote="sony" revision="n-mr1" />
-<project path="device/sony/honami" name="device-sony-honami" groups="device" remote="sony" revision="n-mr1" />
-<project path="device/sony/kanuti" name="device-sony-kanuti" groups="device" remote="sony" revision="n-mr1" />
-<project path="device/sony/kugo" name="device-sony-kugo" groups="device" remote="sony" revision="n-mr1" />
-<project path="device/sony/loire" name="device-sony-loire" groups="device" remote="sony" revision="n-mr1" />
+<project path="device/sony/leo" name="device-sony-leo" groups="device" remote="sony" revision="n-mr1" />
+<project path="device/sony/scorpion" name="device-sony-scorpion" groups="device" remote="sony" revision="n-mr1" />
+<project path="device/sony/scorpion_windy" name="device-sony-scorpion_windy" groups="device" remote="sony" revision="n-mr1" />
+<project path="device/sony/sirius" name="device-sony-sirius" groups="device" remote="sony" revision="n-mr1" />
+
+<!--msm8994-->
+<project path="device/sony/kitakami" name="device-sony-kitakami" groups="device" remote="sony" revision="n-mr1" />
 <project path="device/sony/ivy" name="device-sony-ivy" groups="device" remote="sony" revision="n-mr1" />
 <project path="device/sony/karin" name="device-sony-karin" groups="device" remote="sony" revision="n-mr1" />
 <project path="device/sony/karin_windy" name="device-sony-karin_windy" groups="device" remote="sony" revision="n-mr1" />
-<project path="device/sony/kitakami" name="device-sony-kitakami" groups="device" remote="sony" revision="n-mr1" />
-<project path="device/sony/leo" name="device-sony-leo" groups="device" remote="sony" revision="n-mr1" />
-<project path="device/sony/rhine" name="device-sony-rhine" groups="device" remote="sony" revision="n-mr1" />
 <project path="device/sony/satsuki" name="device-sony-satsuki" groups="device" remote="sony" revision="n-mr1" />
-<project path="device/sony/scorpion" name="device-sony-scorpion" groups="device" remote="sony" revision="n-mr1" />
-<project path="device/sony/scorpion_windy" name="device-sony-scorpion_windy" groups="device" remote="sony" revision="n-mr1" />
-<project path="device/sony/shinano" name="device-sony-shinano" groups="device" remote="sony" revision="n-mr1" />
-<project path="device/sony/sirius" name="device-sony-sirius" groups="device" remote="sony" revision="n-mr1" />
 <project path="device/sony/sumire" name="device-sony-sumire" groups="device" remote="sony" revision="n-mr1" />
 <project path="device/sony/suzuran" name="device-sony-suzuran" groups="device" remote="sony" revision="n-mr1" />
-<project path="device/sony/suzu" name="device-sony-suzu" groups="device" remote="sony" revision="n-mr1" />
-<project path="device/sony/togari" name="device-sony-togari" groups="device" remote="sony" revision="n-mr1" />
+
+<!--msm8936-->
+<project path="device/sony/kanuti" name="device-sony-kanuti" groups="device" remote="sony" revision="n-mr1" />
 <project path="device/sony/tulip" name="device-sony-tulip" groups="device" remote="sony" revision="n-mr1" />
+
+<!--msm8956-->
+<project path="device/sony/loire" name="device-sony-loire" groups="device" remote="sony" revision="n-mr1" />
+<project path="device/sony/kugo" name="device-sony-kugo" groups="device" remote="sony" revision="n-mr1" />
+<project path="device/sony/suzu" name="device-sony-suzu" groups="device" remote="sony" revision="n-mr1" />
 </manifest>
