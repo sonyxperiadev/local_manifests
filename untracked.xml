@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remove-project name="platform/hardware/bsp/intel" />
 <remove-project name="platform/hardware/intel/audio_media" />
 <remove-project name="platform/hardware/intel/bootstub" />
 <remove-project name="platform/hardware/intel/common/bd_prov" />
@@ -22,18 +21,4 @@
 <remove-project name="platform/hardware/qcom/msm8x26" />
 <remove-project name="platform/hardware/qcom/msm8x27" />
 <remove-project name="platform/hardware/qcom/msm8x84" />
-<remove-project name="platform/hardware/ti/omap3" />
-<remove-project name="platform/hardware/ti/omap4-aah" />
-<remove-project name="platform/hardware/ti/omap4xxx" />
-<remove-project name="platform/prebuilts/clang/darwin-x86/host/3.6" />
-<remove-project name="platform/prebuilts/clang/host/darwin-x86" />
-<remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />
-<remove-project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" />
-<remove-project name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" />
-<remove-project name="platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9" />
-<remove-project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" />
-<remove-project name="platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9" />
-<remove-project name="platform/prebuilts/gdb/darwin-x86" />
-<remove-project name="platform/prebuilts/go/darwin-x86" />
-<remove-project name="platform/prebuilts/ninja/darwin-x86" />
 </manifest>
