@@ -1,25 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remove-project name="device/asus/fugu" />
-<remove-project name="device/asus/fugu-kernel" />
-<remove-project name="device/google/accessory/arduino" />
-<remove-project name="device/google/accessory/demokit" />
-<remove-project name="device/google/atv" />
-<remove-project name="device/google/dragon" />
-<remove-project name="device/google/dragon-kernel" />
-<remove-project name="device/google/marlin" />
-<remove-project name="device/google/marlin-kernel" />
-<remove-project name="device/htc/flounder" />
-<remove-project name="device/htc/flounder-kernel" />
-<remove-project name="device/huawei/angler" />
-<remove-project name="device/huawei/angler-kernel" />
-<remove-project name="device/intel/edison" />
-<remove-project name="device/lge/bullhead" />
-<remove-project name="device/lge/bullhead-kernel" />
-<remove-project name="device/linaro/hikey" />
-<remove-project name="device/linaro/hikey-kernel" />
-<remove-project name="device/moto/shamu" />
-<remove-project name="device/moto/shamu-kernel" />
 <remove-project name="platform/hardware/bsp/intel" />
 <remove-project name="platform/hardware/intel/audio_media" />
 <remove-project name="platform/hardware/intel/bootstub" />
