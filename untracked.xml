@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+<remove-project name="device/asus/fugu-kernel" />
+<remove-project name="device/google/accessory/arduino" />
+<remove-project name="device/google/accessory/demokit" />
+<remove-project name="device/google/dragon-kernel" />
+<remove-project name="device/google/marlin-kernel" />
+<remove-project name="device/huawei/angler-kernel" />
+<remove-project name="device/lge/bullhead-kernel" />
+<remove-project name="device/linaro/bootloader/OpenPlatformPkg" />
+<remove-project name="device/linaro/bootloader/arm-trusted-firmware" />
+<remove-project name="device/linaro/bootloader/edk2" />
+<remove-project name="device/linaro/hikey-kernel" />
 <remove-project name="platform/hardware/intel/audio_media" />
 <remove-project name="platform/hardware/intel/bootstub" />
 <remove-project name="platform/hardware/intel/common/bd_prov" />
@@ -21,4 +32,6 @@
 <remove-project name="platform/hardware/qcom/msm8x26" />
 <remove-project name="platform/hardware/qcom/msm8x27" />
 <remove-project name="platform/hardware/qcom/msm8x84" />
+<remove-project name="platform/prebuilts/android-emulator" />
+<remove-project name="platform/prebuilts/qemu-kernel" />
 </manifest>
