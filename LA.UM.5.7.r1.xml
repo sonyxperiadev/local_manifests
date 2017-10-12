@@ -6,7 +6,7 @@
 <project path="device/sony/common-kernel" name="vendor-sony-kernel" groups="device" remote="sony" revision="aosp/LA.UM.5.7.r1" />
 <project path="hardware/qcom/camera" name="camera" groups="device" remote="sony" revision="aosp/LA.UM.5.7.r1" />
 <project path="kernel/sony/msm" name="kernel" groups="device" remote="sony" revision="aosp/LA.UM.5.7.r1" />
-<project path="kernel/sony/msm/drivers/staging/wlan-qc/fw-api" name="vendor-qcom-opensource-wlan-fw-api" groups="device" remote="sony" revision="aosp/LA.UM.5.7.r1" />
-<project path="kernel/sony/msm/drivers/staging/wlan-qc/qca-wifi-host-cmn" name="vendor-qcom-opensource-wlan-qca-wifi-host-cmn" groups="device" remote="sony" revision="aosp/LA.UM.5.7.r1" />
-<project path="kernel/sony/msm/drivers/staging/wlan-qc/qcacld-3.0" name="vendor-qcom-opensource-wlan-qcacld-3.0" groups="device" remote="sony" revision="aosp/LA.UM.5.7.r1" />
+<project path="kernel/sony/msm/drivers/staging/wlan-qc/fw-api" name="vendor-qcom-opensource-wlan-fw-api" groups="device" remote="sony" revision="aosp/LA.UM.6.4.r1" />
+<project path="kernel/sony/msm/drivers/staging/wlan-qc/qca-wifi-host-cmn" name="vendor-qcom-opensource-wlan-qca-wifi-host-cmn" groups="device" remote="sony" revision="aosp/LA.UM.6.4.r1" />
+<project path="kernel/sony/msm/drivers/staging/wlan-qc/qcacld-3.0" name="vendor-qcom-opensource-wlan-qcacld-3.0" groups="device" remote="sony" revision="aosp/LA.UM.6.4.r1" />
 </manifest>
