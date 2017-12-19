@@ -5,6 +5,7 @@
 <remove-project name="device/google/accessory/demokit" />
 <remove-project name="device/google/dragon-kernel" />
 <remove-project name="device/google/marlin-kernel" />
+<remove-project name="device/google/wahoo-kernel" />
 <remove-project name="device/huawei/angler-kernel" />
 <remove-project name="device/lge/bullhead-kernel" />
 <remove-project name="device/linaro/bootloader/OpenPlatformPkg" />
@@ -26,6 +27,7 @@
 <remove-project name="platform/hardware/intel/img/psb_video" />
 <remove-project name="platform/hardware/intel/sensors" />
 <remove-project name="platform/hardware/marvell/bt" />
+<remove-project name="platform/hardware/qcom/msm8x09" />
 <remove-project name="platform/hardware/qcom/msm8960" />
 <remove-project name="platform/hardware/qcom/msm8994" />
 <remove-project name="platform/hardware/qcom/msm8996" />
