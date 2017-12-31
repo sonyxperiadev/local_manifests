@@ -27,6 +27,7 @@
 <remove-project name="platform/hardware/intel/img/psb_video" />
 <remove-project name="platform/hardware/intel/sensors" />
 <remove-project name="platform/hardware/marvell/bt" />
+<remove-project name="platform/hardware/qcom/bootctrl" />
 <remove-project name="platform/hardware/qcom/msm8x09" />
 <remove-project name="platform/hardware/qcom/msm8960" />
 <remove-project name="platform/hardware/qcom/msm8994" />
