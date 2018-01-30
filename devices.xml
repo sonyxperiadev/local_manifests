@@ -9,6 +9,11 @@
 <project path="device/sony/kugo" name="device-sony-kugo" groups="device" remote="sony" revision="o-mr0" />
 <project path="device/sony/suzu" name="device-sony-suzu" groups="device" remote="sony" revision="o-mr0" />
 
+<!--sdm630-->
+<project path="device/sony/nile" name="device-sony-nile" groups="device" remote="sony" revision="o-mr0" />
+<project path="device/sony/discovery" name="device-sony-discovery" groups="device" remote="sony" revision="o-mr0" />
+<project path="device/sony/pioneer" name="device-sony-pioneer" groups="device" remote="sony" revision="o-mr0" />
+
 <!--msm8996-->
 <project path="device/sony/tone" name="device-sony-tone" groups="device" remote="sony" revision="o-mr0" />
 <project path="device/sony/dora" name="device-sony-dora" groups="device" remote="sony" revision="o-mr0" />
