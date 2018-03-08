@@ -4,10 +4,6 @@
 <project path="device/sony/sepolicy" name="device-sony-sepolicy" groups="device" remote="sony" revision="n-mr1" />
 <project path="device/sony/common" name="device-sony-common" groups="device" remote="sony" revision="n-mr1" />
 
-<!--msm8936-->
-<project path="device/sony/tulip" name="device-sony-tulip" groups="device" remote="sony" revision="n-mr1" />
-<project path="device/sony/kanuti" name="device-sony-kanuti" groups="device" remote="sony" revision="n-mr1" />
-
 <!--msm8956-->
 <project path="device/sony/loire" name="device-sony-loire" groups="device" remote="sony" revision="n-mr1" />
 <project path="device/sony/kugo" name="device-sony-kugo" groups="device" remote="sony" revision="n-mr1" />
