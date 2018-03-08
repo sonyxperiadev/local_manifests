@@ -21,4 +21,10 @@
 <project path="device/sony/lilac" name="device-sony-lilac" groups="device" remote="sony" revision="master" />
 <project path="device/sony/maple" name="device-sony-maple" groups="device" remote="sony" revision="master" />
 <project path="device/sony/poplar" name="device-sony-poplar" groups="device" remote="sony" revision="master" />
+
+<!-- sdm660  -->
+<project path="device/sony/nile" name="device-sony-nile" groups="device" remote="sony" revision="master" />
+<project path="device/sony/discovery" name="device-sony-discovery" groups="device" remote="sony" revision="master" />
+<project path="device/sony/pioneer" name="device-sony-pioneer" groups="device" remote="sony" revision="master" />
+
 </manifest>
