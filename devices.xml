@@ -6,6 +6,7 @@
 
 <!--msm8956-->
 <project path="device/sony/loire" name="device-sony-loire" groups="device" remote="sony" revision="master" />
+<project path="device/sony/blanc" name="device-sony-blanc" groups="device" remote="sony" revision="master" />
 <project path="device/sony/kugo" name="device-sony-kugo" groups="device" remote="sony" revision="master" />
 <project path="device/sony/suzu" name="device-sony-suzu" groups="device" remote="sony" revision="master" />
 
