@@ -12,7 +12,6 @@
 <project path="vendor/oss/timekeep" name="timekeep" groups="device" remote="sony" revision="master" />
 <project path="packages/apps/ExtendedSettings" name="packages_apps_ExtendedSettings" groups="device" remote="sony" revision="master" />
 <project path="packages/apps/FMRadio" name="packages-apps-FMRadio" groups="device" remote="sony" revision="master" />
-<project path="vendor/oss/json-c" name="json-c" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/repo_update" name="repo_update" groups="device" remote="sony" revision="android-8.1.0_r3">
     <linkfile src="repo_update.sh" dest="repo_update.sh" />
 </project>
