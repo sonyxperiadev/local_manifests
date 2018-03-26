@@ -10,6 +10,7 @@
 <project path="vendor/sony-oss/macaddrsetup" name="macaddrsetup" groups="device" remote="sony" revision="master" />
 <project path="vendor/sony-oss/thermanager" name="thermanager" groups="device" remote="sony" revision="master" />
 <project path="vendor/sony-oss/timekeep" name="timekeep" groups="device" remote="sony" revision="master" />
+<project path="vendor/sony-oss/transpower" name="transpower" groups="device" remote="sony" revision="m-mr1" />
 <project path="packages/apps/ExtendedSettings" name="packages_apps_ExtendedSettings" groups="device" remote="sony" revision="m-mr1" />
 <project path="packages/apps/FMRadio" name="packages-apps-FMRadio" groups="device" remote="sony" revision="m-mr1" />
 </manifest>
