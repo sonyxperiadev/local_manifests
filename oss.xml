@@ -7,6 +7,7 @@
 <project path="vendor/qcom/opensource/wlan" name="hardware-qcom-wlan" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/fingerprint"  name="vendor-sony-oss-fingerprint" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/macaddrsetup" name="macaddrsetup" groups="device" remote="sony" revision="master" />
+<project path="vendor/oss/release-keys" name="release-keys" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/thermanager" name="thermanager" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/timekeep" name="timekeep" groups="device" remote="sony" revision="master" />
 <project path="packages/apps/ExtendedSettings" name="packages_apps_ExtendedSettings" groups="device" remote="sony" revision="master" />
