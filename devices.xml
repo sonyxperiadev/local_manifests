@@ -26,4 +26,9 @@
 <project path="device/sony/lilac" name="device-sony-lilac" groups="device" remote="sony" revision="master" />
 <project path="device/sony/maple" name="device-sony-maple" groups="device" remote="sony" revision="master" />
 <project path="device/sony/poplar" name="device-sony-poplar" groups="device" remote="sony" revision="master" />
+
+<!--sdm845-->
+<project path="device/sony/tama" name="device-sony-tama" groups="device" remote="sony" revision="master" />
+<project path="device/sony/akari" name="device-sony-akari" groups="device" remote="sony" revision="master" />
+<project path="device/sony/apollo" name="device-sony-apollo" groups="device" remote="sony" revision="master" />
 </manifest>
