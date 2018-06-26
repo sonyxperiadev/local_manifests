@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-<remote name="sony" fetch="https://github.com/sonyxperiadev/" />
-
-<!--QCOM boot control -->
-<remove-project name="platform/hardware/qcom/bootctrl" />
-<project path="hardware/qcom/bootctrl" name="hardware-qcom-bootctrl" groups="device" remote="sony" revision="master" />
-
-</manifest>
