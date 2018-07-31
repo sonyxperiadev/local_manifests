@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="sony" fetch="https://github.com/sonyxperiadev/" />
+<project path="hardware/qcom/display/sde" name="hardware-qcom-display" groups="device" remote="sony" revision="aosp/LA.UM.6.3.r1" />
+</manifest>
