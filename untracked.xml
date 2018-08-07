@@ -34,6 +34,7 @@
 <remove-project name="device/linaro/bootloader/edk2" />
 <remove-project name="device/linaro/hikey" />
 <remove-project name="device/linaro/hikey-kernel" />
+<remove-project name="kernel/tests" />
 <remove-project name="platform/hardware/intel/audio_media" />
 <remove-project name="platform/hardware/intel/bootstub" />
 <remove-project name="platform/hardware/intel/common/bd_prov" />
