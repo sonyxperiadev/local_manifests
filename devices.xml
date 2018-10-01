@@ -14,6 +14,7 @@
 <project path="device/sony/nile" name="device-sony-nile" groups="device" remote="sony" revision="o-mr1" />
 <project path="device/sony/discovery" name="device-sony-discovery" groups="device" remote="sony" revision="o-mr1" />
 <project path="device/sony/pioneer" name="device-sony-pioneer" groups="device" remote="sony" revision="o-mr1" />
+<project path="device/sony/voyager" name="device-sony-voyager" groups="device" remote="sony" revision="o-mr1" />
 
 <!--msm8996-->
 <project path="device/sony/tone" name="device-sony-tone" groups="device" remote="sony" revision="o-mr1" />
