@@ -2,4 +2,5 @@
 <manifest>
 <remote name="sony" fetch="https://github.com/sonyxperiadev/" />
 <project path="hardware/qcom/display/sde" name="hardware-qcom-display" groups="device" remote="sony" revision="aosp/LA.UM.6.3.r1" />
+<project path="vendor/qcom/opensource/commonsys-intf/display" name="vendor-qcom-opensource-commonsys-intf-display" groups="device" remote="sony" revision="aosp/LA.UM.7.3.r1" />
 </manifest>
