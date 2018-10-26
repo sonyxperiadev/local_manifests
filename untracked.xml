@@ -29,6 +29,9 @@
 <remove-project name="device/linaro/bootloader/edk2" />
 <remove-project name="device/linaro/hikey" />
 <remove-project name="device/linaro/hikey-kernel" />
+<remove-project name="platform/external/nos/host/android" />
+<remove-project name="platform/external/nos/host/generic" />
+<remove-project name="platform/external/nos/test/system-test-harness" />
 <remove-project name="platform/hardware/intel/audio_media" />
 <remove-project name="platform/hardware/intel/bootstub" />
 <remove-project name="platform/hardware/intel/common/bd_prov" />
