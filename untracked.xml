@@ -59,6 +59,11 @@
 <remove-project name="platform/hardware/qcom/msm8x26" />
 <remove-project name="platform/hardware/qcom/msm8x27" />
 <remove-project name="platform/hardware/qcom/msm8x84" />
+<remove-project name="platform/hardware/qcom/sdm845/bt" />
+<remove-project name="platform/hardware/qcom/sdm845/data" />
+<remove-project name="platform/hardware/qcom/sdm845/display" />
+<remove-project name="platform/hardware/qcom/sdm845/media" />
+<remove-project name="platform/hardware/qcom/sdm845/thermal" />
 <remove-project name="platform/prebuilts/android-emulator" />
 <remove-project name="platform/prebuilts/qemu-kernel" />
 </manifest>
