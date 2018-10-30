@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remote name="sony" fetch="https://github.com/sonyxperiadev/" />
+
+<remove-project name="platform/hardware/qcom/gps" />
+<remove-project name="platform/hardware/qcom/sdm845/gps" />
+<project path="hardware/qcom/gps" name="platform/hardware/qcom/sdm845/gps" remote="aosp" groups="qcom_sdm845" revision="master" />
+
 <project path="hardware/qcom/display/msmfb" name="hardware-qcom-display" groups="device" remote="sony" revision="aosp/LA.UM.6.3.r1" />
 <project path="hardware/qcom/display/sde" name="hardware-qcom-display" groups="device" remote="sony" revision="aosp/LA.UM.7.3.r1" />
+
 <project path="vendor/qcom/opensource/camera" name="camera" groups="device" remote="sony" revision="aosp/LA.UM.6.4.r1" />
 <project path="vendor/qcom/opensource/commonsys-intf/display" name="vendor-qcom-opensource-commonsys-intf-display" groups="device" remote="sony" revision="aosp/LA.UM.7.3.r1" />
 <project path="vendor/qcom/opensource/dataservices" name="vendor-qcom-opensource-dataservices" groups="device" remote="sony" revision="master" />
