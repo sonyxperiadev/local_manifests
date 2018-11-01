@@ -4,7 +4,7 @@
 <remove-project name="platform/hardware/qcom/gps" />
 <project path="hardware/qcom/gps" name="hardware-qcom-gps-sdm845" groups="device" remote="sony" revision="aosp/android-9.0.0_r11" />
 
-<project path="hardware/qcom/display/sde" name="hardware-qcom-display" groups="device" remote="sony" revision="aosp/LA.UM.6.3.r1" />
+<project path="hardware/qcom/display/msmfb" name="hardware-qcom-display" groups="device" remote="sony" revision="aosp/LA.UM.6.3.r1" />
 <project path="hardware/qcom/media/sdm845" name="hardware-qcom-media-sdm845" groups="device" remote="sony" revision="master" />
 <project path="vendor/qcom/opensource/camera" name="camera" groups="device" remote="sony" revision="aosp/LA.UM.6.4.r1" />
 <project path="vendor/qcom/opensource/dataservices" name="vendor-qcom-opensource-dataservices" groups="device" remote="sony" revision="master" />
