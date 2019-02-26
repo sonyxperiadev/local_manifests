@@ -13,7 +13,7 @@
 <project path="vendor/oss/release-keys" name="release-keys" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/thermanager" name="thermanager" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/timekeep" name="timekeep" groups="device" remote="sony" revision="master" />
-<project path="vendor/oss/transpower" name="transpower" groups="device" remote="sony" revision="master" />
+<project path="vendor/oss/transpower" name="transpower" groups="device" remote="sony" revision="android-8.1.0_r35" />
 <project path="packages/apps/ExtendedSettings" name="packages_apps_ExtendedSettings" groups="device" remote="sony" revision="o-mr1" />
 <project path="packages/apps/FMRadio" name="packages-apps-FMRadio" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/repo_update" name="repo_update" groups="device" remote="sony" revision="android-8.1.0_r3">
