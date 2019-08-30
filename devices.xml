@@ -40,4 +40,8 @@
 <project path="device/sony/akari" name="device-sony-akari" groups="device" remote="sony" revision="master" />
 <project path="device/sony/akatsuki" name="device-sony-akatsuki" groups="device" remote="sony" revision="master" />
 <project path="device/sony/apollo" name="device-sony-apollo" groups="device" remote="sony" revision="master" />
+
+<!--sm8150-->
+<project path="device/sony/kumano" name="device-sony-kumano" groups="device" remote="sony" revision="master" />
+<project path="device/sony/griffin" name="device-sony-griffin" groups="device" remote="sony" revision="master" />
 </manifest>
