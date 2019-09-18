@@ -7,12 +7,12 @@
 <remove-project name="platform/hardware/qcom/sdm845/media" />
 <remove-project name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" />
 
-<project path="hardware/qcom/gps" name="platform/hardware/qcom/sdm845/gps" remote="aosp" groups="qcom_sdm845" revision="master" />
+<project path="hardware/qcom/gps" name="platform/hardware/qcom/sdm845/gps" remote="aosp" groups="qcom_sdm845" />
 
 <project path="hardware/qcom/display/sde" name="hardware-qcom-display" groups="device" remote="sony" revision="aosp/LA.UM.7.3.r1" />
-<project path="hardware/qcom/media/sdm845" name="platform/hardware/qcom/sdm845/media" groups="qcom_sdm845" remote="aosp" revision="master" />
+<project path="hardware/qcom/media/sdm845" name="platform/hardware/qcom/sdm845/media" groups="qcom_sdm845" remote="aosp" />
 
-<project path="hardware/qcom/data/ipacfg-mgr/sdm845" name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" groups="qcom_sdm845" remote="aosp" revision="master" />
+<project path="hardware/qcom/data/ipacfg-mgr/sdm845" name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" groups="qcom_sdm845" remote="aosp" />
 
 <project path="vendor/qcom/opensource/camera" name="camera" groups="device" remote="sony" revision="aosp/LA.UM.6.4.r1" />
 <project path="vendor/qcom/opensource/bluetooth" name="vendor-qcom-opensource-bluetooth" groups="device" remote="sony" revision="master" />
