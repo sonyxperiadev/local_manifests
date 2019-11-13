@@ -41,5 +41,6 @@
 
 <!--sm8150-->
 <project path="device/sony/kumano" name="device-sony-kumano" groups="device" remote="sony" revision="master" />
+<project path="device/sony/bahamut" name="device-sony-bahamut" groups="device" remote="sony" revision="master" />
 <project path="device/sony/griffin" name="device-sony-griffin" groups="device" remote="sony" revision="master" />
 </manifest>
