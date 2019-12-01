@@ -4,6 +4,7 @@
 <project path="vendor/oss/cash"  name="vendor-sony-oss-cash" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/fingerprint"  name="vendor-sony-oss-fingerprint" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/interfaces"  name="vendor-oss-interfaces" groups="device" remote="sony" revision="master" />
+<project path="vendor/oss/json-c"  name="json-c" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/macaddrsetup" name="macaddrsetup" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/projection" name="vendor-sony-oss-projection" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/qcrilam"  name="QcRilAm" groups="device" remote="sony" revision="master" />
