@@ -11,6 +11,7 @@
 
 <project path="hardware/qcom/display/sde" name="hardware-qcom-display" groups="device" remote="sony" revision="aosp/LA.UM.7.1.r1" />
 <project path="hardware/qcom/media/sm8150" name="hardware-qcom-media" groups="device" remote="sony" revision="aosp/LA.UM.7.1.r1" />
+<project path="hardware/qcom/media/sdm660-libion" name="hardware-qcom-media" groups="device" remote="sony" revision="aosp/LA.UM.8.2.1.r1" />
 
 <project path="hardware/qcom/media/sdm845" name="platform/hardware/qcom/sdm845/media" groups="qcom_sdm845" remote="aosp" />
 
