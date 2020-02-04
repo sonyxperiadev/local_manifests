@@ -13,8 +13,6 @@
 <project path="hardware/qcom/media/sm8150" name="hardware-qcom-media" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1" />
 <project path="hardware/qcom/media/sdm660-libion" name="hardware-qcom-media" groups="device" remote="sony" revision="aosp/LA.UM.8.2.1.r1" />
 
-<project path="hardware/qcom/media/sdm845" name="platform/hardware/qcom/sdm845/media" groups="qcom_sdm845" remote="aosp" />
-
 <project path="hardware/qcom/data/ipacfg-mgr/sdm845" name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" groups="qcom_sdm845" remote="aosp" />
 
 <project path="vendor/qcom/opensource/camera" name="camera" groups="device" remote="sony" revision="aosp/LA.UM.6.4.r1" />
