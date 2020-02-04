@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remove-project name="kernel/tests" />
-	<remove-project name="platform/external/nos/host/generic" />
-	<remove-project name="platform/prebuilts/android-emulator" />
-	<remove-project name="platform/prebuilts/qemu-kernel" />
+    <remove-project name="kernel/tests" />
+    <remove-project name="platform/external/nos/host/android" />
+    <remove-project name="platform/external/nos/host/generic" />
+    <remove-project name="platform/external/nos/test/system-test-harness" />
+    <remove-project name="platform/prebuilts/android-emulator" />
+    <remove-project name="platform/prebuilts/qemu-kernel" />
 </manifest>
