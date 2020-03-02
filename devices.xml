@@ -10,17 +10,6 @@
 <project path="device/sony/kugo" name="device-sony-kugo" groups="device" remote="sony" revision="master" />
 <project path="device/sony/suzu" name="device-sony-suzu" groups="device" remote="sony" revision="master" />
 
-<!--sdm630-->
-<project path="device/sony/nile" name="device-sony-nile" groups="device" remote="sony" revision="master" />
-<project path="device/sony/discovery" name="device-sony-discovery" groups="device" remote="sony" revision="master" />
-<project path="device/sony/pioneer" name="device-sony-pioneer" groups="device" remote="sony" revision="master" />
-<project path="device/sony/voyager" name="device-sony-voyager" groups="device" remote="sony" revision="master" />
-
-<!--sdm630-->
-<project path="device/sony/ganges" name="device-sony-ganges" groups="device" remote="sony" revision="master" />
-<project path="device/sony/kirin" name="device-sony-kirin" groups="device" remote="sony" revision="master" />
-<project path="device/sony/mermaid" name="device-sony-mermaid" groups="device" remote="sony" revision="master" />
-
 <!--msm8996-->
 <project path="device/sony/tone" name="device-sony-tone" groups="device" remote="sony" revision="master" />
 <project path="device/sony/dora" name="device-sony-dora" groups="device" remote="sony" revision="master" />
@@ -32,15 +21,4 @@
 <project path="device/sony/lilac" name="device-sony-lilac" groups="device" remote="sony" revision="master" />
 <project path="device/sony/maple" name="device-sony-maple" groups="device" remote="sony" revision="master" />
 <project path="device/sony/poplar" name="device-sony-poplar" groups="device" remote="sony" revision="master" />
-
-<!--sdm845-->
-<project path="device/sony/tama" name="device-sony-tama" groups="device" remote="sony" revision="master" />
-<project path="device/sony/akari" name="device-sony-akari" groups="device" remote="sony" revision="master" />
-<project path="device/sony/akatsuki" name="device-sony-akatsuki" groups="device" remote="sony" revision="master" />
-<project path="device/sony/apollo" name="device-sony-apollo" groups="device" remote="sony" revision="master" />
-
-<!--sm8150-->
-<project path="device/sony/kumano" name="device-sony-kumano" groups="device" remote="sony" revision="master" />
-<project path="device/sony/bahamut" name="device-sony-bahamut" groups="device" remote="sony" revision="master" />
-<project path="device/sony/griffin" name="device-sony-griffin" groups="device" remote="sony" revision="master" />
 </manifest>
