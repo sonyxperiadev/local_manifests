@@ -8,11 +8,11 @@
 
 <project path="hardware/qcom/gps" name="platform/hardware/qcom/sdm845/gps" remote="aosp" groups="qcom_sdm845" />
 
-<project path="hardware/qcom/display/sde" name="hardware-qcom-display" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1" />
-<project path="hardware/qcom/media/sm8150" name="hardware-qcom-media" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1" />
-<project path="hardware/qcom/media/sdm660-libion" name="hardware-qcom-media" groups="device" remote="sony" revision="aosp/LA.UM.8.2.1.r1" />
+<project path="vendor/qcom/opensource/display" name="hardware-qcom-display" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1" />
+<project path="vendor/qcom/opensource/media/sm8150" name="hardware-qcom-media" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1" />
+<project path="vendor/qcom/opensource/media/sdm660-libion" name="hardware-qcom-media" groups="device" remote="sony" revision="aosp/LA.UM.8.2.1.r1" />
 
-<project path="hardware/qcom/data/ipacfg-mgr/sdm845" name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" groups="qcom_sdm845" remote="aosp" />
+<project path="vendor/qcom/opensource/data/ipacfg-mgr/sdm845" name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" groups="qcom_sdm845" remote="aosp" />
 
 <project path="vendor/qcom/opensource/camera" name="camera" groups="device" remote="sony" revision="aosp/LA.UM.8.11.r1" />
 <project path="vendor/qcom/opensource/core-utils" name="vendor-qcom-opensource-core-utils" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1" />

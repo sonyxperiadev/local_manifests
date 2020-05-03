@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+    <remove-project name="platform/hardware/qcom/display" />
+    <remove-project name="platform/hardware/qcom/media" />
     <remove-project name="platform/hardware/qcom/msm8x09" />
     <remove-project name="platform/hardware/qcom/msm8960" />
     <remove-project name="platform/hardware/qcom/msm8994" />
