@@ -2,11 +2,9 @@
 <manifest>
 <remote name="sony" fetch="https://github.com/sonyxperiadev/" />
 
-<remove-project name="platform/hardware/qcom/gps" />
-<remove-project name="platform/hardware/qcom/sdm845/gps" />
 <remove-project name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" />
 
-<project path="hardware/qcom/gps" name="platform/hardware/qcom/sdm845/gps" remote="aosp" groups="qcom_sdm845" />
+<project path="vendor/qcom/opensource/gps" name="hardware-qcom-gps" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1" />
 
 <project path="vendor/qcom/opensource/display" name="hardware-qcom-display" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1" />
 <project path="vendor/qcom/opensource/media/sm8150" name="hardware-qcom-media" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1" />
@@ -19,7 +17,7 @@
 <project path="vendor/qcom/opensource/bluetooth" name="vendor-qcom-opensource-bluetooth" groups="device" remote="sony" revision="master" />
 <project path="vendor/qcom/opensource/dataservices" name="vendor-qcom-opensource-dataservices" groups="device" remote="sony" revision="q-mr1" />
 <project path="vendor/qcom/opensource/gpt-utils" name="vendor-qcom-opensource-gpt-utils" groups="device" remote="sony" revision="master" />
-<project path="vendor/qcom/opensource/location" name="vendor-qcom-opensource-location" groups="device" remote="sony" revision="q-mr0" />
+<project path="vendor/qcom/opensource/location" name="vendor-qcom-opensource-location" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1" />
 <project path="vendor/qcom/opensource/st-hal" name="vendor-qcom-opensource-audio-hal-st-hal" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1" />
 <project path="vendor/qcom/opensource/telephony" name="vendor-qcom-opensource-telephony" groups="device" remote="sony" revision="aosp/LA.UM.8.2.1.r1" />
 <project path="vendor/qcom/opensource/vibrator" name="vendor-qcom-opensource-vibrator" groups="device" remote="sony" revision="aosp/LA.UM.7.1.r1" />
