@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remote name="sony" fetch="https://github.com/sonyxperiadev/" />
-<project path="vendor/oss/cash"  name="vendor-sony-oss-cash" groups="device" remote="sony" revision="master" />
-<project path="vendor/oss/fingerprint"  name="vendor-sony-oss-fingerprint" groups="device" remote="sony" revision="master" />
-<project path="vendor/oss/macaddrsetup" name="macaddrsetup" groups="device" remote="sony" revision="master" />
-<project path="vendor/oss/projection" name="vendor-sony-oss-projection" groups="device" remote="sony" revision="master" />
+<project path="vendor/oss/cash"  name="vendor-sony-oss-cash" groups="device" remote="sony" revision="p-mr1" />
+<project path="vendor/oss/fingerprint"  name="vendor-sony-oss-fingerprint" groups="device" remote="sony" revision="p-mr1" />
+<project path="vendor/oss/macaddrsetup" name="macaddrsetup" groups="device" remote="sony" revision="p-mr1" />
+<project path="vendor/oss/projection" name="vendor-sony-oss-projection" groups="device" remote="sony" revision="p-mr1" />
 <project path="vendor/oss/qcrilam"  name="QcRilAm" groups="device" remote="sony" revision="p-mr1" />
-<project path="vendor/oss/release-keys" name="release-keys" groups="device" remote="sony" revision="master" />
-<project path="vendor/oss/thermanager" name="thermanager" groups="device" remote="sony" revision="master" />
-<project path="vendor/oss/timekeep" name="timekeep" groups="device" remote="sony" revision="master" />
-<project path="vendor/oss/transpower" name="transpower" groups="device" remote="sony" revision="master" />
+<project path="vendor/oss/release-keys" name="release-keys" groups="device" remote="sony" revision="p-mr1" />
+<project path="vendor/oss/thermanager" name="thermanager" groups="device" remote="sony" revision="p-mr1" />
+<project path="vendor/oss/timekeep" name="timekeep" groups="device" remote="sony" revision="p-mr1" />
+<project path="vendor/oss/transpower" name="transpower" groups="device" remote="sony" revision="p-mr1" />
 <project path="packages/apps/ExtendedSettings" name="packages_apps_ExtendedSettings" groups="device" remote="sony" revision="p-mr1" />
 <project path="vendor/oss/repo_update" name="repo_update" groups="device" remote="sony" revision="android-9.0.0_r1">
     <linkfile src="repo_update.sh" dest="repo_update.sh" />
