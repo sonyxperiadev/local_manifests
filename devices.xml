@@ -5,20 +5,20 @@
 <project path="device/sony/common" name="device-sony-common" groups="device" remote="sony" revision="q-mr1-legacy" />
 
 <!--msm8956-->
-<project path="device/sony/loire" name="device-sony-loire" groups="device" remote="sony" revision="master" />
-<project path="device/sony/blanc" name="device-sony-blanc" groups="device" remote="sony" revision="master" />
-<project path="device/sony/kugo" name="device-sony-kugo" groups="device" remote="sony" revision="master" />
-<project path="device/sony/suzu" name="device-sony-suzu" groups="device" remote="sony" revision="master" />
+<project path="device/sony/loire" name="device-sony-loire" groups="device" remote="sony" revision="q-mr1" />
+<project path="device/sony/blanc" name="device-sony-blanc" groups="device" remote="sony" revision="q-mr1" />
+<project path="device/sony/kugo" name="device-sony-kugo" groups="device" remote="sony" revision="q-mr1" />
+<project path="device/sony/suzu" name="device-sony-suzu" groups="device" remote="sony" revision="q-mr1" />
 
 <!--msm8996-->
-<project path="device/sony/tone" name="device-sony-tone" groups="device" remote="sony" revision="master" />
-<project path="device/sony/dora" name="device-sony-dora" groups="device" remote="sony" revision="master" />
-<project path="device/sony/kagura" name="device-sony-kagura" groups="device" remote="sony" revision="master" />
-<project path="device/sony/keyaki" name="device-sony-keyaki" groups="device" remote="sony" revision="master" />
+<project path="device/sony/tone" name="device-sony-tone" groups="device" remote="sony" revision="q-mr1" />
+<project path="device/sony/dora" name="device-sony-dora" groups="device" remote="sony" revision="q-mr1" />
+<project path="device/sony/kagura" name="device-sony-kagura" groups="device" remote="sony" revision="q-mr1" />
+<project path="device/sony/keyaki" name="device-sony-keyaki" groups="device" remote="sony" revision="q-mr1" />
 
 <!--msm8998-->
-<project path="device/sony/yoshino" name="device-sony-yoshino" groups="device" remote="sony" revision="master" />
-<project path="device/sony/lilac" name="device-sony-lilac" groups="device" remote="sony" revision="master" />
-<project path="device/sony/maple" name="device-sony-maple" groups="device" remote="sony" revision="master" />
-<project path="device/sony/poplar" name="device-sony-poplar" groups="device" remote="sony" revision="master" />
+<project path="device/sony/yoshino" name="device-sony-yoshino" groups="device" remote="sony" revision="q-mr1" />
+<project path="device/sony/lilac" name="device-sony-lilac" groups="device" remote="sony" revision="q-mr1" />
+<project path="device/sony/maple" name="device-sony-maple" groups="device" remote="sony" revision="q-mr1" />
+<project path="device/sony/poplar" name="device-sony-poplar" groups="device" remote="sony" revision="q-mr1" />
 </manifest>
