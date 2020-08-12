@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remote name="relan" fetch="https://github.com/relan/" />
-<project path="vendor/external/exfat" name="exfat" groups="device" remote="relan" revision="68ba243d5d15854bebe61514217bcff2345d3614" />
+<remote name="exfatprogs" fetch="https://github.com/exfatprogs/" />
+<project path="vendor/external/exfatprogs" name="exfatprogs" groups="device" remote="exfatprogs" revision="refs/tags/1.0.4" />
 </manifest>
