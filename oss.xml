@@ -7,7 +7,6 @@
 <project path="vendor/oss/json-c"  name="json-c" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/macaddrsetup" name="macaddrsetup" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/opentelephony" name="SonyOpenTelephony" groups="device" remote="sony" revision="master" />
-<project path="vendor/oss/projection" name="vendor-sony-oss-projection" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/qcrilam"  name="QcRilAm" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/release-keys" name="release-keys" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/simdetect" name="vendor-sony-oss-simdetect" groups="device" remote="sony" revision="master" />
