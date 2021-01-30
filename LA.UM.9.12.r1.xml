@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="sony" fetch="https://github.com/sonyxperiadev/" />
+<project path="kernel/sony/msm-4.19/common-headers" name="device-sony-common-headers" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" />
+<project path="kernel/sony/msm-4.19/common-kernel" name="kernel-sony-msm-4.19-common" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" clone-depth="1"/>
+<project path="kernel/sony/msm-4.19/kernel" name="kernel" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" />
+<project path="kernel/sony/msm-4.19/kernel/techpack/audio" name="kernel-techpack-audio" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" />
+<project path="kernel/sony/msm-4.19/kernel/techpack/camera" name="kernel-techpack-camera" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" />
+<project path="kernel/sony/msm-4.19/kernel/techpack/data-kernel" name="kernel-techpack-data-kernel" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" />
+<project path="kernel/sony/msm-4.19/kernel/techpack/display" name="kernel-techpack-display-driver" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" />
+<project path="kernel/sony/msm-4.19/kernel/arch/arm64/configs/sony" name="kernel-defconfig" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" />
+<project path="kernel/sony/msm-4.19/kernel/drivers/staging/wlan-qc/fw-api" name="vendor-qcom-opensource-wlan-fw-api" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" />
+<project path="kernel/sony/msm-4.19/kernel/drivers/staging/wlan-qc/qca-wifi-host-cmn" name="vendor-qcom-opensource-wlan-qca-wifi-host-cmn" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" />
+<project path="kernel/sony/msm-4.19/kernel/drivers/staging/wlan-qc/qcacld-3.0" name="vendor-qcom-opensource-wlan-qcacld-3.0" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" />
+</manifest>
