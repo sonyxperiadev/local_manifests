@@ -31,6 +31,7 @@
 <project path="vendor/qcom/opensource/core-utils" name="vendor-qcom-opensource-core-utils" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1" />
 <project path="vendor/qcom/opensource/bluetooth" name="vendor-qcom-opensource-bluetooth" groups="device" remote="sony" revision="master" />
 <project path="vendor/qcom/opensource/gpt-utils" name="vendor-qcom-opensource-gpt-utils" groups="device" remote="sony" revision="master" />
+
 <project path="vendor/qcom/opensource/vibrator" name="vendor-qcom-opensource-vibrator" groups="device" remote="sony" revision="aosp/LA.UM.7.1.r1" />
 <project path="vendor/qcom/opensource/wlan" name="hardware-qcom-wlan" groups="device" remote="sony" revision="master" />
 
