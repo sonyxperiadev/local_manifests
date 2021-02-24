@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remove-project name="kernel/prebuilts/4.19/arm64" />
+    <!-- Keep for virtualization tests -->
+    <!-- <remove-project name="kernel/prebuilts/5.10/arm64" /> -->
+    <remove-project name="kernel/prebuilts/5.10/x86-64" />
+    <remove-project name="kernel/prebuilts/5.4/arm64" />
+    <remove-project name="kernel/prebuilts/5.4/x86-64" />
+    <remove-project name="kernel/prebuilts/common-modules/virtual-device/4.19/arm64" />
+    <remove-project name="kernel/prebuilts/common-modules/virtual-device/4.19/x86-64" />
+    <!-- Keep for microdroid and all the dependent virtualization packages -->
+    <!-- <remove-project name="kernel/prebuilts/common-modules/virtual-device/5.10/arm64" /> -->
+    <remove-project name="kernel/prebuilts/common-modules/virtual-device/5.10/x86-64" />
+    <remove-project name="kernel/prebuilts/common-modules/virtual-device/5.4/arm64" />
+    <remove-project name="kernel/prebuilts/common-modules/virtual-device/5.4/x86-64" />
+    <remove-project name="kernel/prebuilts/common-modules/virtual-device/mainline/arm64" />
+    <remove-project name="kernel/prebuilts/common-modules/virtual-device/mainline/x86-64" />
+    <remove-project name="kernel/prebuilts/mainline/arm64" />
+    <remove-project name="kernel/tests" />
 </manifest>
