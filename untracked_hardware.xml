@@ -20,6 +20,7 @@
     <remove-project name="platform/hardware/qcom/sdm845/media" />
     <remove-project name="platform/hardware/qcom/sdm845/thermal" />
     <remove-project name="platform/hardware/qcom/sdm845/vr" />
+    <remove-project name="platform/hardware/qcom/sm7150/gps" />
     <remove-project name="platform/hardware/qcom/sm7250/display" />
     <remove-project name="platform/hardware/qcom/sm7250/gps" />
     <remove-project name="platform/hardware/qcom/sm7250/media" />
@@ -29,4 +30,5 @@
     <remove-project name="platform/hardware/qcom/sm8150/media" />
     <remove-project name="platform/hardware/qcom/sm8150/thermal" />
     <remove-project name="platform/hardware/qcom/sm8150/vr" />
+    <remove-project name="platform/hardware/qcom/sm8150p/gps" />
 </manifest>
