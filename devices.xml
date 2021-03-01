@@ -35,4 +35,9 @@
 <!--sm6125-->
 <project path="device/sony/seine" name="device-sony-seine" groups="device" remote="sony" revision="r-mr1" />
 <project path="device/sony/pdx201" name="device-sony-pdx201" groups="device" remote="sony" revision="r-mr1" />
+
+<!--sm8250-->
+<project path="device/sony/edo" name="device-sony-edo" groups="device" remote="sony" revision="r-mr1" />
+<project path="device/sony/pdx203" name="device-sony-pdx203" groups="device" remote="sony" revision="r-mr1" />
+<project path="device/sony/pdx206" name="device-sony-pdx206" groups="device" remote="sony" revision="r-mr1" />
 </manifest>
