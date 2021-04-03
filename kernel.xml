@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="sony" fetch="https://github.com/sonyxperiadev/" />
+<project path="kernel/sony/qti-headers" name="qti-headers" groups="device" remote="sony" revision="master" />
+</manifest>
