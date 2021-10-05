@@ -18,9 +18,14 @@
     <remove-project name="device/generic/qemu" />
     <remove-project name="device/generic/trusty" />
     <remove-project name="device/generic/uml" />
+    <!-- Graphics Streaming Kit: Ued in ie rutabaga_gfx -->
+    <!-- <remove-project name="device/generic/vulkan-cereal" /> -->
     <remove-project name="device/generic/x86" />
     <remove-project name="device/generic/x86_64" />
     <remove-project name="device/google/atv" />
+    <remove-project name="device/google/barbet" />
+    <remove-project name="device/google/barbet-kernel" />
+    <remove-project name="device/google/barbet-sepolicy" />
     <remove-project name="device/google/bonito" />
     <remove-project name="device/google/bonito-kernel" />
     <remove-project name="device/google/bonito-sepolicy" />
@@ -33,9 +38,9 @@
     <remove-project name="device/google/crosshatch" />
     <remove-project name="device/google/crosshatch-kernel" />
     <remove-project name="device/google/crosshatch-sepolicy" />
-    <remove-project name="device/google/cuttlefish" />
-    <remove-project name="device/google/cuttlefish_kernel" />
-    <remove-project name="device/google/cuttlefish_vmm" />
+    <!-- Device repo provides core libraries for ie. microdroid -->
+    <!-- <remove-project name="device/google/cuttlefish" /> -->
+    <!-- <remove-project name="device/google/cuttlefish_prebuilts" /> -->
     <remove-project name="device/google/fuchsia" />
     <remove-project name="device/google/redbull" />
     <remove-project name="device/google/redbull-kernel" />
@@ -48,9 +53,6 @@
     <remove-project name="device/google/trout" />
     <remove-project name="device/google/vrservices" />
     <remove-project name="device/google_car" />
-    <remove-project name="device/linaro/bootloader/OpenPlatformPkg" />
-    <remove-project name="device/linaro/bootloader/arm-trusted-firmware" />
-    <remove-project name="device/linaro/bootloader/edk2" />
     <remove-project name="device/linaro/dragonboard" />
     <remove-project name="device/linaro/dragonboard-kernel" />
     <remove-project name="device/linaro/hikey" />
