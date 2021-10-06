@@ -13,7 +13,7 @@
 <project path="vendor/oss/timekeep" name="timekeep" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/transpower" name="transpower" groups="device" remote="sony" revision="master" />
 <project path="packages/apps/ExtendedSettings" name="packages_apps_ExtendedSettings" groups="device" remote="sony" revision="r-mr1" />
-<project path="vendor/oss/repo_update" name="repo_update" groups="device" remote="sony" revision="android-11.0.0_r1">
+<project path="vendor/oss/repo_update" name="repo_update" groups="device" remote="sony" revision="android-12.0.0_r2">
     <linkfile src="repo_update.sh" dest="repo_update.sh" />
 </project>
 </manifest>
