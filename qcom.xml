@@ -5,20 +5,10 @@
 <remove-project name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" />
 <project path="vendor/qcom/opensource/data/ipacfg-mgr/sdm845" name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" groups="qcom_sdm845" remote="aosp" />
 
-<project path="vendor/qcom/opensource/camera" name="camera" groups="device" remote="sony" revision="aosp/LA.UM.8.11.r1" />
-
 <project path="vendor/qcom/opensource/gps" name="hardware-qcom-gps" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" />
 <project path="vendor/qcom/opensource/location" name="vendor-qcom-opensource-location" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" />
 
-<project path="vendor/qcom/opensource/display/sm8150" name="hardware-qcom-display" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1_r-mr1" />
-<project path="vendor/qcom/opensource/display-commonsys-intf/sm8150" name="vendor-qcom-opensource-commonsys-intf-display" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1_r-mr1" />
-
-<project path="vendor/qcom/opensource/display/sm8250" name="hardware-qcom-display" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" />
 <project path="vendor/qcom/opensource/display-commonsys-intf/sm8250" name="vendor-qcom-opensource-commonsys-intf-display" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" />
-
-<project path="vendor/qcom/opensource/media/sdm660-libion" name="hardware-qcom-media" groups="device" remote="sony" revision="aosp/LA.UM.8.2.1.r1" />
-<project path="vendor/qcom/opensource/media/sm8150" name="hardware-qcom-media-sm8150" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1" />
-<project path="vendor/qcom/opensource/media/sm8250" name="hardware-qcom-media-sm8150" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" />
 
 <project path="vendor/qcom/opensource/audio-hal/primary-hal" name="vendor-qcom-opensource-audio-hal-primary-hal" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" />
 <project path="vendor/qcom/opensource/audio-hal/st-hal" name="vendor-qcom-opensource-audio-hal-st-hal" groups="device" remote="sony" revision="aosp/LA.UM.9.12.r1" />
