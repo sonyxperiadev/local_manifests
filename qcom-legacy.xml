@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="sony" fetch="https://github.com/sonyxperiadev/" />
+
+<project path="vendor/qcom/opensource/camera" name="camera" groups="device" remote="sony" revision="aosp/LA.UM.8.11.r1" />
+
+<project path="vendor/qcom/opensource/media/sdm660-libion" name="hardware-qcom-media" groups="device" remote="sony" revision="aosp/LA.UM.8.2.1.r1" />
+
+</manifest>
