@@ -3,7 +3,7 @@
 <remote name="sony" fetch="https://github.com/sonyxperiadev/" />
 
 <remove-project name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" />
-<project path="vendor/qcom/opensource/data/ipacfg-mgr/sdm845" name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" groups="qcom_sdm845" remote="aosp" />
+<project path="vendor/qcom/opensource/data/ipacfg-mgr" name="vendor-qcom-opensource-data-ipa-cfg-mgr" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
 
 <project path="vendor/qcom/opensource/gps" name="hardware-qcom-gps" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
 <project path="vendor/qcom/opensource/location" name="vendor-qcom-opensource-location" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
