@@ -8,6 +8,8 @@
 <project path="kernel/sony/msm-5.4/kernel/techpack/camera" name="kernel-techpack-camera" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
 <project path="kernel/sony/msm-5.4/kernel/techpack/dataipa" name="kernel-techpack-dataipa" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
 <project path="kernel/sony/msm-5.4/kernel/techpack/display" name="kernel-techpack-display-driver" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
+<project path="kernel/sony/msm-5.4/kernel/techpack/video" name="kernel-techpack-video" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
+<project path="kernel/sony/msm-5.4/kernel/techpack/sched" name="kernel-techpack-sched" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
 <project path="kernel/sony/msm-5.4/kernel/arch/arm64/configs/sony" name="kernel-defconfig" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
 <project path="kernel/sony/msm-5.4/kernel/drivers/staging/wlan-qc/fw-api" name="vendor-qcom-opensource-wlan-fw-api" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
 <project path="kernel/sony/msm-5.4/kernel/drivers/staging/wlan-qc/qca-wifi-host-cmn" name="vendor-qcom-opensource-wlan-qca-wifi-host-cmn" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
