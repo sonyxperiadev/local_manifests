@@ -3,6 +3,6 @@
 <remote name="sony" fetch="https://github.com/sonyxperiadev/" />
 
 <project path="vendor/qcom/opensource/display/sm8350" name="vendor-qcom-opensource-display" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
+<project path="vendor/qcom/opensource/display-commonsys-intf/sm8350" name="vendor-qcom-opensource-commonsys-intf-display" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
 <project path="vendor/qcom/opensource/media/sm8350" name="vendor-qcom-opensource-media" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
-
 </manifest>
