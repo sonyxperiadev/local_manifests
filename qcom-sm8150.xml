@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-<remote name="sony" fetch="https://github.com/sonyxperiadev/" />
-
-<project path="vendor/qcom/opensource/display/sm8150" name="vendor-qcom-opensource-display" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1" />
-<project path="vendor/qcom/opensource/display-commonsys-intf/sm8150" name="vendor-qcom-opensource-commonsys-intf-display" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1_r-mr1" />
-<project path="vendor/qcom/opensource/media/sm8150" name="vendor-qcom-opensource-media" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1" />
-
-</manifest>
