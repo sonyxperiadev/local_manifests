@@ -12,14 +12,14 @@
     <remove-project name="platform/packages/apps/Car/LocalMediaPlayer" />
     <remove-project name="platform/packages/apps/Car/Media" />
     <remove-project name="platform/packages/apps/Car/Messenger" />
-    <remove-project name="platform/packages/apps/Car/Notification" />
+    <!-- <remove-project name="platform/packages/apps/Car/Notification" /> -->
     <remove-project name="platform/packages/apps/Car/Provision" />
     <remove-project name="platform/packages/apps/Car/Radio" />
     <!-- Used by cts tests -->
     <!-- <remove-project name="platform/packages/apps/Car/RotaryController" /> -->
-    <remove-project name="platform/packages/apps/Car/Settings" />
+    <!-- <remove-project name="platform/packages/apps/Car/Settings" /> -->
     <remove-project name="platform/packages/apps/Car/SettingsIntelligence" />
-    <remove-project name="platform/packages/apps/Car/SystemUI" />
+    <!-- <remove-project name="platform/packages/apps/Car/SystemUI" /> -->
     <remove-project name="platform/packages/apps/Car/SystemUpdater" />
     <!-- Various packages depend on carg-ui-lib: -->
     <!-- <remove-project name="platform/packages/apps/Car/libs" /> -->
