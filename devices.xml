@@ -37,4 +37,8 @@
 <project path="device/sony/pdx214" name="device-sony-pdx214" groups="device" remote="sony" revision="t-mr1" />
 <project path="device/sony/pdx215" name="device-sony-pdx215" groups="device" remote="sony" revision="t-mr1" />
 
+<!--sm8450-->
+<project path="device/sony/nagara" name="device-sony-nagara" groups="device" remote="sony" revision="t-mr1" />
+<project path="device/sony/pdx223" name="device-sony-pdx223" groups="device" remote="sony" revision="t-mr1" />
+
 </manifest>
