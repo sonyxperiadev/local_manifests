@@ -34,6 +34,10 @@
 <project path="device/sony/lena" name="device-sony-lena" groups="device" remote="sony" revision="s-mr1" />
 <project path="device/sony/pdx213" name="device-sony-pdx213" groups="device" remote="sony" revision="s-mr1" />
 
+<!--sm6375-->
+<project path="device/sony/murray" name="device-sony-murray" groups="device" remote="sony" revision="s-mr1" />
+<project path="device/sony/pdx225" name="device-sony-pdx225" groups="device" remote="sony" revision="s-mr1" />
+
 <!--sm8250-->
 <project path="device/sony/edo" name="device-sony-edo" groups="device" remote="sony" revision="s-mr1" />
 <project path="device/sony/pdx203" name="device-sony-pdx203" groups="device" remote="sony" revision="s-mr1" />
