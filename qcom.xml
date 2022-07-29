@@ -8,6 +8,8 @@
 <project path="vendor/qcom/opensource/gps" name="hardware-qcom-gps" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
 <project path="vendor/qcom/opensource/location" name="vendor-qcom-opensource-location" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
 
+<project path="vendor/qcom/opensource/agm" name="vendor-qcom-opensource-agm" groups="device" remote="sony" revision="aosp/LA.VENDOR.1.0.r1" />
+<project path="vendor/qcom/opensource/pal" name="vendor-qcom-opensource-arpal-lx" groups="device" remote="sony" revision="aosp/LA.VENDOR.1.0.r1" />
 <project path="vendor/qcom/opensource/audio-hal/primary-hal" name="vendor-qcom-opensource-audio-hal-primary-hal" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
 <project path="vendor/qcom/opensource/audio-hal/st-hal" name="vendor-qcom-opensource-audio-hal-st-hal" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
 
