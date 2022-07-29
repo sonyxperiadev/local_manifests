@@ -26,5 +26,5 @@
 <project path="vendor/qcom/opensource/gpt-utils" name="vendor-qcom-opensource-gpt-utils" groups="device" remote="sony" revision="master" />
 <project path="vendor/qcom/opensource/bootctrl" name="vendor-qcom-opensource-bootctrl" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
 
-<project path="vendor/qcom/opensource/time-services" name="vendor-qcom-opensource-time-services" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
+<project path="vendor/qcom/opensource/time-services" name="vendor-qcom-opensource-time-services" groups="device" remote="sony" revision="aosp/LA.VENDOR.1.0.r1" />
 </manifest>
