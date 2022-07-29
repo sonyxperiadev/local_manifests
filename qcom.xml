@@ -16,7 +16,7 @@
 
 <project path="vendor/qcom/opensource/interfaces" name="vendor-qcom-opensource-interfaces" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
 
-<project path="vendor/qcom/opensource/usb" name="vendor-qcom-opensource-usb" groups="device" remote="sony" revision="aosp/LA.UM.9.14.r1" />
+<project path="vendor/qcom/opensource/usb" name="vendor-qcom-opensource-usb" groups="device" remote="sony" revision="aosp/LA.VENDOR.1.0.r1" />
 
 <project path="vendor/qcom/opensource/core-utils" name="vendor-qcom-opensource-core-utils" groups="device" remote="sony" revision="aosp/LA.UM.8.1.r1" />
 <project path="vendor/qcom/opensource/bluetooth" name="vendor-qcom-opensource-bluetooth" groups="device" remote="sony" revision="master" />
