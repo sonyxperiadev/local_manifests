@@ -24,24 +24,16 @@
     <remove-project name="device/generic/x86_64" />
     <remove-project name="device/google/atv" />
     <remove-project name="device/google/barbet" />
-    <remove-project name="device/google/barbet-kernel" />
     <remove-project name="device/google/barbet-sepolicy" />
-    <remove-project name="device/google/bonito" />
-    <remove-project name="device/google/bonito-kernel" />
-    <remove-project name="device/google/bonito-sepolicy" />
     <remove-project name="device/google/bramble" />
     <remove-project name="device/google/bramble-sepolicy" />
     <remove-project name="device/google/contexthub" />
     <remove-project name="device/google/coral" />
     <remove-project name="device/google/coral-kernel" />
     <remove-project name="device/google/coral-sepolicy" />
-    <remove-project name="device/google/crosshatch" />
-    <remove-project name="device/google/crosshatch-kernel" />
-    <remove-project name="device/google/crosshatch-sepolicy" />
     <!-- Device repo provides core libraries for ie. microdroid -->
     <!-- <remove-project name="device/google/cuttlefish" /> -->
     <!-- <remove-project name="device/google/cuttlefish_prebuilts" /> -->
-    <remove-project name="device/google/fuchsia" />
     <remove-project name="device/google/redbull" />
     <remove-project name="device/google/redbull-kernel" />
     <remove-project name="device/google/redbull-sepolicy" />
