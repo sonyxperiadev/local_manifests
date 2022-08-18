@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-<remote name="exfatprogs" fetch="https://github.com/exfatprogs/" />
-<project path="vendor/external/exfatprogs" name="exfatprogs" groups="device" remote="exfatprogs" revision="refs/tags/1.0.4" />
-</manifest>
