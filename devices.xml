@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remote name="sony" fetch="https://github.com/sonyxperiadev/" />
-<project path="device/sony/sepolicy" name="device-sony-sepolicy" groups="device" remote="sony" revision="t-mr1" />
-<project path="device/sony/common" name="device-sony-common" groups="device" remote="sony" revision="t-mr1" />
+<project path="device/sony/sepolicy" name="device-sony-sepolicy" groups="device" remote="sony" revision="master" />
+<project path="device/sony/common" name="device-sony-common" groups="device" remote="sony" revision="master" />
 
 <!--sdm845-->
-<project path="device/sony/tama" name="device-sony-tama" groups="device" remote="sony" revision="t-mr1" />
-<project path="device/sony/akari" name="device-sony-akari" groups="device" remote="sony" revision="t-mr1" />
-<project path="device/sony/akatsuki" name="device-sony-akatsuki" groups="device" remote="sony" revision="t-mr1" />
-<project path="device/sony/apollo" name="device-sony-apollo" groups="device" remote="sony" revision="t-mr1" />
+<project path="device/sony/tama" name="device-sony-tama" groups="device" remote="sony" revision="master" />
+<project path="device/sony/akari" name="device-sony-akari" groups="device" remote="sony" revision="master" />
+<project path="device/sony/akatsuki" name="device-sony-akatsuki" groups="device" remote="sony" revision="master" />
+<project path="device/sony/apollo" name="device-sony-apollo" groups="device" remote="sony" revision="master" />
 
 <!--sm8150-->
-<project path="device/sony/kumano" name="device-sony-kumano" groups="device" remote="sony" revision="t-mr1" />
-<project path="device/sony/bahamut" name="device-sony-bahamut" groups="device" remote="sony" revision="t-mr1" />
-<project path="device/sony/griffin" name="device-sony-griffin" groups="device" remote="sony" revision="t-mr1" />
+<project path="device/sony/kumano" name="device-sony-kumano" groups="device" remote="sony" revision="master" />
+<project path="device/sony/bahamut" name="device-sony-bahamut" groups="device" remote="sony" revision="master" />
+<project path="device/sony/griffin" name="device-sony-griffin" groups="device" remote="sony" revision="master" />
 
 <!--sm6125-->
-<project path="device/sony/seine" name="device-sony-seine" groups="device" remote="sony" revision="t-mr1" />
-<project path="device/sony/pdx201" name="device-sony-pdx201" groups="device" remote="sony" revision="t-mr1" />
+<project path="device/sony/seine" name="device-sony-seine" groups="device" remote="sony" revision="master" />
+<project path="device/sony/pdx201" name="device-sony-pdx201" groups="device" remote="sony" revision="master" />
 
 <!--sm6350-->
-<project path="device/sony/lena" name="device-sony-lena" groups="device" remote="sony" revision="t-mr1" />
-<project path="device/sony/pdx213" name="device-sony-pdx213" groups="device" remote="sony" revision="t-mr1" />
+<project path="device/sony/lena" name="device-sony-lena" groups="device" remote="sony" revision="master" />
+<project path="device/sony/pdx213" name="device-sony-pdx213" groups="device" remote="sony" revision="master" />
 
 <!--sm6375-->
-<project path="device/sony/murray" name="device-sony-murray" groups="device" remote="sony" revision="t-mr1" />
-<project path="device/sony/pdx225" name="device-sony-pdx225" groups="device" remote="sony" revision="t-mr1" />
+<project path="device/sony/murray" name="device-sony-murray" groups="device" remote="sony" revision="master" />
+<project path="device/sony/pdx225" name="device-sony-pdx225" groups="device" remote="sony" revision="master" />
 
 <!--sm8250-->
-<project path="device/sony/edo" name="device-sony-edo" groups="device" remote="sony" revision="t-mr1" />
-<project path="device/sony/pdx203" name="device-sony-pdx203" groups="device" remote="sony" revision="t-mr1" />
-<project path="device/sony/pdx206" name="device-sony-pdx206" groups="device" remote="sony" revision="t-mr1" />
+<project path="device/sony/edo" name="device-sony-edo" groups="device" remote="sony" revision="master" />
+<project path="device/sony/pdx203" name="device-sony-pdx203" groups="device" remote="sony" revision="master" />
+<project path="device/sony/pdx206" name="device-sony-pdx206" groups="device" remote="sony" revision="master" />
 
 <!--sm8350-->
-<project path="device/sony/sagami" name="device-sony-sagami" groups="device" remote="sony" revision="t-mr1" />
-<project path="device/sony/pdx214" name="device-sony-pdx214" groups="device" remote="sony" revision="t-mr1" />
-<project path="device/sony/pdx215" name="device-sony-pdx215" groups="device" remote="sony" revision="t-mr1" />
+<project path="device/sony/sagami" name="device-sony-sagami" groups="device" remote="sony" revision="master" />
+<project path="device/sony/pdx214" name="device-sony-pdx214" groups="device" remote="sony" revision="master" />
+<project path="device/sony/pdx215" name="device-sony-pdx215" groups="device" remote="sony" revision="master" />
 
 <!--sm8450-->
-<project path="device/sony/nagara" name="device-sony-nagara" groups="device" remote="sony" revision="t-mr1" />
-<project path="device/sony/pdx223" name="device-sony-pdx223" groups="device" remote="sony" revision="t-mr1" />
-<project path="device/sony/pdx224" name="device-sony-pdx224" groups="device" remote="sony" revision="t-mr1" />
+<project path="device/sony/nagara" name="device-sony-nagara" groups="device" remote="sony" revision="master" />
+<project path="device/sony/pdx223" name="device-sony-pdx223" groups="device" remote="sony" revision="master" />
+<project path="device/sony/pdx224" name="device-sony-pdx224" groups="device" remote="sony" revision="master" />
 
 </manifest>
