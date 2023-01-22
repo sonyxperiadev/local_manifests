@@ -35,6 +35,11 @@
     <!-- Device repo provides core libraries for ie. microdroid -->
     <!-- <remove-project name="device/google/cuttlefish" /> -->
     <!-- <remove-project name="device/google/cuttlefish_prebuilts" /> -->
+    <remove-project name="device/google/gs201" />
+    <remove-project name="device/google/gs201-sepolicy" />
+    <remove-project name="device/google/pantah" />
+    <remove-project name="device/google/pantah-kernel" />
+    <remove-project name="device/google/pantah-sepolicy" />
     <remove-project name="device/google/redbull" />
     <remove-project name="device/google/redbull-kernel" />
     <remove-project name="device/google/redbull-sepolicy" />
