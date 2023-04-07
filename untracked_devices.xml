@@ -19,7 +19,7 @@
     <remove-project name="device/generic/qemu" />
     <remove-project name="device/generic/trusty" />
     <remove-project name="device/generic/uml" />
-    <!-- Graphics Streaming Kit: Ued in ie rutabaga_gfx -->
+    <!-- Graphics Streaming Kit: Used in ie rutabaga_gfx -->
     <!-- <remove-project name="device/generic/vulkan-cereal" /> -->
     <remove-project name="device/generic/x86" />
     <remove-project name="device/generic/x86_64" />
