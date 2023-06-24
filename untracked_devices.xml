@@ -37,6 +37,7 @@
     <!-- <remove-project name="device/google/cuttlefish_prebuilts" /> -->
     <remove-project name="device/google/gs201" />
     <remove-project name="device/google/gs201-sepolicy" />
+    <remove-project name="device/google/lynx" />
     <remove-project name="device/google/pantah" />
     <remove-project name="device/google/pantah-kernel" />
     <remove-project name="device/google/pantah-sepolicy" />
