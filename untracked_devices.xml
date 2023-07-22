@@ -54,6 +54,9 @@
     <remove-project name="device/google/sunfish" />
     <remove-project name="device/google/sunfish-kernel" />
     <remove-project name="device/google/sunfish-sepolicy" />
+    <remove-project name="device/google/tangorpro" />
+    <remove-project name="device/google/tangorpro-kernel" />
+    <remove-project name="device/google/tangorpro-sepolicy" />
     <remove-project name="device/google/trout" />
     <remove-project name="device/google/vrservices" />
     <remove-project name="device/google_car" />
