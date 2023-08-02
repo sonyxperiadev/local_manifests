@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="sony" fetch="https://github.com/sonyxperiadev/" />
+<project path="kernel/sony/msm-5.15/common-headers" name="kernel-sony-msm-5.15-headers" groups="device" remote="sony" revision="aosp/K.P.2.0.r1" />
+<project path="kernel/sony/msm-5.15/common-kernel" name="kernel-sony-msm-5.15-common" groups="device" remote="sony" revision="aosp/K.P.2.0.r1" clone-depth="1"/>
+<project path="kernel/sony/msm-5.15/kernel" name="kernel" groups="device" remote="sony" revision="aosp/K.P.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/techpack/audio" name="kernel-techpack-audio" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/techpack/bt-kernel" name="kernel-techpack-bt-kernel" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/techpack/camera" name="kernel-techpack-camera" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/techpack/dataipa" name="kernel-techpack-dataipa" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/techpack/datarmnet" name="kernel-techpack-datarmnet" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/techpack/datarmnet-ext" name="kernel-techpack-datarmnet-ext" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/techpack/display" name="kernel-techpack-display" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/techpack/eva" name="kernel-techpack-eva" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/techpack/graphics" name="kernel-techpack-graphics-kernel" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/techpack/mm" name="kernel-techpack-mm-drivers" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/techpack/mmrm" name="kernel-techpack-mmrm" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/techpack/securemsm" name="kernel-techpack-securemsm-kernel" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/techpack/video" name="kernel-techpack-video" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/arch/arm64/configs/sony" name="kernel-defconfig" groups="device" remote="sony" revision="aosp/K.P.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/drivers/staging/wlan-qc/fw-api" name="vendor-qcom-opensource-wlan-fw-api" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/drivers/staging/wlan-qc/qca-wifi-host-cmn" name="vendor-qcom-opensource-wlan-qca-wifi-host-cmn" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/drivers/staging/wlan-qc/qcacld-3.0" name="vendor-qcom-opensource-wlan-qcacld-3.0" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+</manifest>
