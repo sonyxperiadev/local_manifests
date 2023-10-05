@@ -3,24 +3,14 @@
     <remove-project name="platform/hardware/broadcom/wlan" />
     <remove-project name="platform/hardware/qcom/audio" />
     <remove-project name="platform/hardware/qcom/bootctrl" />
+    <remove-project name="platform/hardware/qcom/bt" />
     <remove-project name="platform/hardware/qcom/camera" />
     <remove-project name="platform/hardware/qcom/data/ipacfg-mgr" />
     <remove-project name="platform/hardware/qcom/display" />
     <remove-project name="platform/hardware/qcom/gps" />
+    <remove-project name="platform/hardware/qcom/keymaster" />
     <remove-project name="platform/hardware/qcom/media" />
-    <remove-project name="platform/hardware/qcom/msm8960" />
-    <remove-project name="platform/hardware/qcom/msm8994" />
-    <remove-project name="platform/hardware/qcom/msm8996" />
-    <remove-project name="platform/hardware/qcom/msm8x09" />
-    <remove-project name="platform/hardware/qcom/msm8x26" />
-    <remove-project name="platform/hardware/qcom/msm8x27" />
-    <remove-project name="platform/hardware/qcom/msm8x84" />
-    <remove-project name="platform/hardware/qcom/sdm845/bt" />
-    <remove-project name="platform/hardware/qcom/sdm845/display" />
-    <remove-project name="platform/hardware/qcom/sdm845/gps" />
-    <remove-project name="platform/hardware/qcom/sdm845/media" />
-    <remove-project name="platform/hardware/qcom/sdm845/thermal" />
-    <remove-project name="platform/hardware/qcom/sdm845/vr" />
+    <remove-project name="platform/hardware/qcom/power" />
     <remove-project name="platform/hardware/qcom/sm7150/gps" />
     <remove-project name="platform/hardware/qcom/sm7250/display" />
     <remove-project name="platform/hardware/qcom/sm7250/gps" />
@@ -32,4 +22,5 @@
     <remove-project name="platform/hardware/qcom/sm8150/thermal" />
     <remove-project name="platform/hardware/qcom/sm8150/vr" />
     <remove-project name="platform/hardware/qcom/sm8150p/gps" />
+    <remove-project name="platform/hardware/qcom/wlan" />"
 </manifest>
