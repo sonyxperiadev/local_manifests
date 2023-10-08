@@ -6,12 +6,12 @@
     <remove-project name="platform/packages/apps/Car/DebuggingRestrictionController" />
     <remove-project name="platform/packages/apps/Car/DialerPrebuilt" />
     <remove-project name="platform/packages/apps/Car/LatinIME" />
-    <remove-project name="platform/packages/apps/Car/Launcher" />
+    <!-- <remove-project name="platform/packages/apps/Car/Launcher" /> -->
     <remove-project name="platform/packages/apps/Car/LinkViewer" />
     <remove-project name="platform/packages/apps/Car/LocalMediaPlayer" />
     <remove-project name="platform/packages/apps/Car/MediaPrebuilt" />
     <remove-project name="platform/packages/apps/Car/MessengerPrebuilt" />
-    <remove-project name="platform/packages/apps/Car/Notification" />
+    <!-- <remove-project name="platform/packages/apps/Car/Notification" /> -->
     <remove-project name="platform/packages/apps/Car/Provision" />
     <remove-project name="platform/packages/apps/Car/Radio" />
     <!-- Used by cts tests -->
@@ -23,5 +23,5 @@
     <!-- <remove-project name="platform/packages/apps/Car/systemlibs" /> -->
     <remove-project name="platform/packages/apps/Car/SystemUpdater" />
     <!-- tools/security depends on carwatchdogd_defaults etc -->
-    <remove-project name="platform/packages/services/Car" />
+    <!-- <remove-project name="platform/packages/services/Car" /> -->
 </manifest>

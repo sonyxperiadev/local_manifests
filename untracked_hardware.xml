@@ -22,5 +22,4 @@
     <remove-project name="platform/hardware/qcom/sm8150/thermal" />
     <remove-project name="platform/hardware/qcom/sm8150/vr" />
     <remove-project name="platform/hardware/qcom/sm8150p/gps" />
-    <remove-project name="platform/hardware/qcom/wlan" />"
 </manifest>

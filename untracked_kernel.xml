@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remove-project name="kernel/configs" />
     <remove-project name="kernel/prebuilts/4.19/arm64" />
     <remove-project name="kernel/prebuilts/5.4/arm64" />
     <remove-project name="kernel/prebuilts/5.4/x86-64" />
