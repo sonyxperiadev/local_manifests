@@ -47,5 +47,6 @@
 <!--sm8550-->
 <project path="device/sony/yodo" name="device-sony-yodo" groups="device" remote="sony" revision="t-mr1" />
 <project path="device/sony/pdx234" name="device-sony-pdx234" groups="device" remote="sony" revision="t-mr1" />
+<project path="device/sony/pdx237" name="device-sony-pdx237" groups="device" remote="sony" revision="t-mr1" />
 
 </manifest>
