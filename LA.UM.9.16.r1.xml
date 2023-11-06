@@ -7,6 +7,8 @@
 <project path="kernel/sony/msm-5.4/kernel/techpack/audio" name="kernel-techpack-audio" groups="device" remote="sony" revision="aosp/LA.UM.9.16.r1" />
 <project path="kernel/sony/msm-5.4/kernel/techpack/camera" name="kernel-techpack-camera" groups="device" remote="sony" revision="aosp/LA.UM.9.16.r1" />
 <project path="kernel/sony/msm-5.4/kernel/techpack/dataipa" name="kernel-techpack-dataipa" groups="device" remote="sony" revision="aosp/LA.UM.9.16.r1" />
+<project path="kernel/sony/msm-5.4/kernel/techpack/datarmnet" name="kernel-techpack-datarmnet" groups="device" remote="sony" revision="aosp/LA.UM.9.16.r1" />
+<project path="kernel/sony/msm-5.4/kernel/techpack/datarmnet-ext" name="kernel-techpack-datarmnet-ext" groups="device" remote="sony" revision="aosp/LA.UM.9.16.r1" />
 <project path="kernel/sony/msm-5.4/kernel/techpack/display" name="kernel-techpack-display-driver" groups="device" remote="sony" revision="aosp/LA.UM.9.16.r1" />
 <project path="kernel/sony/msm-5.4/kernel/techpack/video" name="kernel-techpack-video" groups="device" remote="sony" revision="aosp/LA.UM.9.16.r1" />
 <project path="kernel/sony/msm-5.4/kernel/arch/arm64/configs/sony" name="kernel-defconfig" groups="device" remote="sony" revision="aosp/LA.UM.9.16.r1" />
