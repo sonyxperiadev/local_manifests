@@ -17,6 +17,7 @@
 <project path="kernel/sony/msm-5.15/kernel/techpack/mmrm" name="kernel-techpack-mmrm" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
 <project path="kernel/sony/msm-5.15/kernel/techpack/securemsm" name="kernel-techpack-securemsm-kernel" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
 <project path="kernel/sony/msm-5.15/kernel/techpack/video" name="kernel-techpack-video" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/techpack/wlan" name="vendor-qcom-opensource-wlan-platform" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
 <project path="kernel/sony/msm-5.15/kernel/arch/arm64/configs/sony" name="kernel-defconfig" groups="device" remote="sony" revision="aosp/K.P.2.0.r1" />
 <project path="kernel/sony/msm-5.15/kernel/drivers/staging/wlan-qc/fw-api" name="vendor-qcom-opensource-wlan-fw-api" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
 <project path="kernel/sony/msm-5.15/kernel/drivers/staging/wlan-qc/qca-wifi-host-cmn" name="vendor-qcom-opensource-wlan-qca-wifi-host-cmn" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
