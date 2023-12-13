@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Not building for cars... -->
-    <remove-project name="platform/packages/apps/Car/Calendar" />
+    <!-- <remove-project name="platform/packages/apps/Car/Calendar" />-->
     <remove-project name="platform/packages/apps/Car/Cluster" />
     <remove-project name="platform/packages/apps/Car/DebuggingRestrictionController" />
     <remove-project name="platform/packages/apps/Car/DialerPrebuilt" />
