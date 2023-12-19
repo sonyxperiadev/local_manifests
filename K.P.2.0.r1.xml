@@ -5,7 +5,7 @@
 <project path="kernel/sony/msm-5.15/common-kernel" name="kernel-sony-msm-5.15-common" groups="device" remote="sony" revision="aosp/K.P.2.0.r1" clone-depth="1"/>
 <project path="kernel/sony/msm-5.15/kernel" name="kernel" groups="device" remote="sony" revision="aosp/K.P.2.0.r1" />
 <project path="kernel/sony/msm-5.15/kernel/techpack/audio" name="kernel-techpack-audio" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
-<project path="kernel/sony/msm-5.15/kernel/techpack/bt-kernel" name="kernel-techpack-bt-kernel" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+<project path="kernel/sony/msm-5.15/kernel/techpack/bt" name="kernel-techpack-bt-kernel" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
 <project path="kernel/sony/msm-5.15/kernel/techpack/camera" name="kernel-techpack-camera" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
 <project path="kernel/sony/msm-5.15/kernel/techpack/dataipa" name="kernel-techpack-dataipa" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
 <project path="kernel/sony/msm-5.15/kernel/techpack/datarmnet" name="kernel-techpack-datarmnet" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
