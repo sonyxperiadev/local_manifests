@@ -16,7 +16,6 @@
     <remove-project name="device/generic/mini-emulator-x86" />
     <remove-project name="device/generic/mini-emulator-x86_64" />
     <remove-project name="device/generic/opengl-transport" />
-    <remove-project name="device/generic/qemu" />
     <remove-project name="device/generic/trusty" />
     <remove-project name="device/generic/uml" />
     <!-- Graphics Streaming Kit: Used in ie rutabaga_gfx -->
@@ -68,6 +67,4 @@
     <remove-project name="device/linaro/poplar-kernel" />
     <!-- Necessary for apns -->
     <!--<remove-project name="device/sample" />-->
-    <remove-project name="device/ti/beagle-x15" />
-    <remove-project name="device/ti/beagle-x15-kernel" />
 </manifest>
