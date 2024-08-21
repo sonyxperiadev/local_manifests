@@ -8,10 +8,17 @@
 <project path="vendor/qcom/opensource/gps" name="hardware-qcom-gps" groups="device" remote="sony" revision="aosp/LA.UM.9.16.r1" />
 <project path="vendor/qcom/opensource/location" name="vendor-qcom-opensource-location" groups="device" remote="sony" revision="aosp/LA.UM.9.16.r1" />
 
-<project path="vendor/qcom/opensource/agm" name="vendor-qcom-opensource-agm" groups="device" remote="sony" revision="aosp/LA.VENDOR.1.0.r1" />
-<project path="vendor/qcom/opensource/pal" name="vendor-qcom-opensource-arpal-lx" groups="device" remote="sony" revision="aosp/LA.VENDOR.1.0.r1" />
 <project path="vendor/qcom/opensource/audio-hal/primary-hal" name="vendor-qcom-opensource-audio-hal-primary-hal" groups="device" remote="sony" revision="aosp/LA.UM.9.16.r1" />
 <project path="vendor/qcom/opensource/audio-hal/st-hal" name="vendor-qcom-opensource-audio-hal-st-hal" groups="device" remote="sony" revision="aosp/LA.UM.9.16.r1" />
+
+<project path="vendor/qcom/opensource/audioreach-conf" name="vendor-qcom-opensource-audioreach-conf" groups="device" remote="sony" revision="aosp/AUDIO.LA.8.0.r1" />
+<project path="vendor/qcom/opensource/audioreach-graphservices" name="vendor-qcom-opensource-audioreach-graphservices" groups="device" remote="sony" revision="aosp/AUDIO.LA.8.0.r1" />
+
+<project path="vendor/qcom/opensource/agm" name="vendor-qcom-opensource-agm" groups="device" remote="sony" revision="aosp/AUDIO.LA.8.0.r1" />
+<project path="vendor/qcom/opensource/pal" name="vendor-qcom-opensource-arpal-lx" groups="device" remote="sony" revision="aosp/AUDIO.LA.8.0.r1" />
+
+<project path="vendor/qcom/opensource/audio-hal/primary-hal-ar" name="vendor-qcom-opensource-audio-hal-primary-hal-ar" groups="device" remote="sony" revision="aosp/AUDIO.LA.8.0.r1" />
+<project path="vendor/qcom/opensource/audio-hal/st-hal-ar" name="vendor-qcom-opensource-audio-hal-st-hal-ar" groups="device" remote="sony" revision="aosp/AUDIO.LA.8.0.r1" />
 
 <project path="vendor/qcom/opensource/dataservices" name="vendor-qcom-opensource-dataservices" groups="device" remote="sony" revision="aosp/LA.VENDOR.1.0.r1" />
 <project path="vendor/qcom/opensource/telephony" name="vendor-qcom-opensource-telephony" groups="device" remote="sony" revision="aosp/LA.QSSI.11.0.r1" />
