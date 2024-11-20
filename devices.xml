@@ -18,6 +18,10 @@
 <project path="device/sony/zambezi" name="device-sony-zambezi" groups="device" remote="sony" revision="u-mr1" />
 <project path="device/sony/pdx235" name="device-sony-pdx235" groups="device" remote="sony" revision="u-mr1" />
 
+<!--sm6450-->
+<project path="device/sony/columbia" name="device-sony-columbia" groups="device" remote="sony" revision="u-mr1" />
+<project path="device/sony/pdx246" name="device-sony-pdx246" groups="device" remote="sony" revision="u-mr1" />
+
 <!--sm8250-->
 <project path="device/sony/edo" name="device-sony-edo" groups="device" remote="sony" revision="u-mr1" />
 <project path="device/sony/pdx203" name="device-sony-pdx203" groups="device" remote="sony" revision="u-mr1" />
