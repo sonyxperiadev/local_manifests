@@ -13,7 +13,6 @@
     <remove-project name="platform/packages/apps/Car/MessengerPrebuilt" />
     <!-- <remove-project name="platform/packages/apps/Car/Notification" /> -->
     <remove-project name="platform/packages/apps/Car/Provision" />
-    <remove-project name="platform/packages/apps/Car/Radio" />
     <!-- Used by cts tests -->
     <!-- <remove-project name="platform/packages/apps/Car/RotaryController" /> -->
     <!-- <remove-project name="platform/packages/apps/Car/Settings" /> -->
