@@ -33,4 +33,8 @@
 <project path="device/sony/pdx234" name="device-sony-pdx234" groups="device" remote="sony" revision="v-mr1" />
 <project path="device/sony/pdx237" name="device-sony-pdx237" groups="device" remote="sony" revision="v-mr1" />
 
+<!--sm8650-->
+<project path="device/sony/asahi" name="device-sony-asahi" groups="device" remote="sony" revision="v-mr1" />
+<project path="device/sony/pdx245" name="device-sony-pdx245" groups="device" remote="sony" revision="v-mr1" />
+
 </manifest>
