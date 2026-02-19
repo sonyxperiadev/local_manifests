@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+    <remove-project name="platform/hardware/broadcom/libbt" />
     <remove-project name="platform/hardware/broadcom/wlan" />
+    <remove-project name="platform/hardware/invensense" />
+    <remove-project name="platform/hardware/samsung/nfc" />
+    <remove-project name="platform/hardware/synaptics/wlan" />
+    <remove-project name="platform/hardware/ti/am57x" />
 </manifest>
