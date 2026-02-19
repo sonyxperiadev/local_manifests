@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remove-project name="kernel/prebuilts/6.1/arm64" />
-    <remove-project name="kernel/prebuilts/6.1/x86-64" />
-    <remove-project name="kernel/prebuilts/6.6/arm64" />
-    <remove-project name="kernel/prebuilts/6.6/x86-64" />
+    <!-- Needed for vmlinux.h in BPF -->
+    <!-- <remove-project name="kernel/prebuilts/6.1/arm64" /> -->
+    <!-- <remove-project name="kernel/prebuilts/6.1/x86-64" /> -->
+    <!-- <remove-project name="kernel/prebuilts/6.6/arm64" /> -->
+    <!-- <remove-project name="kernel/prebuilts/6.6/x86-64" /> -->
     <!-- Needed for microdroid_gki_modules -->
     <remove-project name="kernel/prebuilts/mainline/arm64" />
     <remove-project name="kernel/prebuilts/mainline/x86-64" />
