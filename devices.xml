@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remote name="sony" fetch="https://github.com/sonyxperiadev/" />
-<project path="device/sony/sepolicy" name="device-sony-sepolicy" groups="device" remote="sony" revision="v-mr1" />
-<project path="device/sony/common" name="device-sony-common" groups="device" remote="sony" revision="v-mr1" />
+<project path="device/sony/sepolicy" name="device-sony-sepolicy" groups="device" remote="sony" revision="android-16" />
+<project path="device/sony/common" name="device-sony-common" groups="device" remote="sony" revision="android-16" />
 
 <!--sm6450-->
-<project path="device/sony/columbia" name="device-sony-columbia" groups="device" remote="sony" revision="v-mr1" />
-<project path="device/sony/pdx246" name="device-sony-pdx246" groups="device" remote="sony" revision="v-mr1" />
+<project path="device/sony/columbia" name="device-sony-columbia" groups="device" remote="sony" revision="android-16" />
+<project path="device/sony/pdx246" name="device-sony-pdx246" groups="device" remote="sony" revision="android-16" />
 
 <!--sm6475-->
-<project path="device/sony/elbe" name="device-sony-elbe" groups="device" remote="sony" revision="v-mr1" />
-<project path="device/sony/pdx257" name="device-sony-pdx257" groups="device" remote="sony" revision="v-mr1" />
+<project path="device/sony/elbe" name="device-sony-elbe" groups="device" remote="sony" revision="android-16" />
+<project path="device/sony/pdx257" name="device-sony-pdx257" groups="device" remote="sony" revision="android-16" />
 
 <!--sm8450-->
-<project path="device/sony/nagara" name="device-sony-nagara" groups="device" remote="sony" revision="v-mr1" />
-<project path="device/sony/pdx223" name="device-sony-pdx223" groups="device" remote="sony" revision="v-mr1" />
-<project path="device/sony/pdx224" name="device-sony-pdx224" groups="device" remote="sony" revision="v-mr1" />
+<project path="device/sony/nagara" name="device-sony-nagara" groups="device" remote="sony" revision="android-16" />
+<project path="device/sony/pdx223" name="device-sony-pdx223" groups="device" remote="sony" revision="android-16" />
+<project path="device/sony/pdx224" name="device-sony-pdx224" groups="device" remote="sony" revision="android-16" />
 
 <!--sm8550-->
-<project path="device/sony/yodo" name="device-sony-yodo" groups="device" remote="sony" revision="v-mr1" />
-<project path="device/sony/pdx234" name="device-sony-pdx234" groups="device" remote="sony" revision="v-mr1" />
-<project path="device/sony/pdx237" name="device-sony-pdx237" groups="device" remote="sony" revision="v-mr1" />
+<project path="device/sony/yodo" name="device-sony-yodo" groups="device" remote="sony" revision="android-16" />
+<project path="device/sony/pdx234" name="device-sony-pdx234" groups="device" remote="sony" revision="android-16" />
+<project path="device/sony/pdx237" name="device-sony-pdx237" groups="device" remote="sony" revision="android-16" />
 
 <!--sm8650-->
-<project path="device/sony/asahi" name="device-sony-asahi" groups="device" remote="sony" revision="v-mr1" />
-<project path="device/sony/pdx245" name="device-sony-pdx245" groups="device" remote="sony" revision="v-mr1" />
+<project path="device/sony/asahi" name="device-sony-asahi" groups="device" remote="sony" revision="android-16" />
+<project path="device/sony/pdx245" name="device-sony-pdx245" groups="device" remote="sony" revision="android-16" />
 
 <!--sm8750-->
-<project path="device/sony/shimanto" name="device-sony-shimanto" groups="device" remote="sony" revision="v-mr1" />
-<project path="device/sony/pdx256" name="device-sony-pdx256" groups="device" remote="sony" revision="v-mr1" />
+<project path="device/sony/shimanto" name="device-sony-shimanto" groups="device" remote="sony" revision="android-16" />
+<project path="device/sony/pdx256" name="device-sony-pdx256" groups="device" remote="sony" revision="android-16" />
 
 </manifest>
