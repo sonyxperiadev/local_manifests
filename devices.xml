@@ -14,6 +14,10 @@
 <project path="device/sony/columbia" name="device-sony-columbia" groups="device" remote="sony" revision="v-mr1" />
 <project path="device/sony/pdx246" name="device-sony-pdx246" groups="device" remote="sony" revision="v-mr1" />
 
+<!--sm6475-->
+<project path="device/sony/elbe" name="device-sony-elbe" groups="device" remote="sony" revision="v-mr1" />
+<project path="device/sony/pdx257" name="device-sony-pdx257" groups="device" remote="sony" revision="v-mr1" />
+
 <!--sm8350-->
 <project path="device/sony/sagami" name="device-sony-sagami" groups="device" remote="sony" revision="v-mr1" />
 <project path="device/sony/pdx214" name="device-sony-pdx214" groups="device" remote="sony" revision="v-mr1" />
