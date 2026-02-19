@@ -4,12 +4,6 @@
 <project path="device/sony/sepolicy" name="device-sony-sepolicy" groups="device" remote="sony" revision="v-mr1" />
 <project path="device/sony/common" name="device-sony-common" groups="device" remote="sony" revision="v-mr1" />
 
-<!--sm6375-->
-<project path="device/sony/murray" name="device-sony-murray" groups="device" remote="sony" revision="v-mr1" />
-<project path="device/sony/pdx225" name="device-sony-pdx225" groups="device" remote="sony" revision="v-mr1" />
-<project path="device/sony/zambezi" name="device-sony-zambezi" groups="device" remote="sony" revision="v-mr1" />
-<project path="device/sony/pdx235" name="device-sony-pdx235" groups="device" remote="sony" revision="v-mr1" />
-
 <!--sm6450-->
 <project path="device/sony/columbia" name="device-sony-columbia" groups="device" remote="sony" revision="v-mr1" />
 <project path="device/sony/pdx246" name="device-sony-pdx246" groups="device" remote="sony" revision="v-mr1" />
@@ -17,11 +11,6 @@
 <!--sm6475-->
 <project path="device/sony/elbe" name="device-sony-elbe" groups="device" remote="sony" revision="v-mr1" />
 <project path="device/sony/pdx257" name="device-sony-pdx257" groups="device" remote="sony" revision="v-mr1" />
-
-<!--sm8350-->
-<project path="device/sony/sagami" name="device-sony-sagami" groups="device" remote="sony" revision="v-mr1" />
-<project path="device/sony/pdx214" name="device-sony-pdx214" groups="device" remote="sony" revision="v-mr1" />
-<project path="device/sony/pdx215" name="device-sony-pdx215" groups="device" remote="sony" revision="v-mr1" />
 
 <!--sm8450-->
 <project path="device/sony/nagara" name="device-sony-nagara" groups="device" remote="sony" revision="v-mr1" />
