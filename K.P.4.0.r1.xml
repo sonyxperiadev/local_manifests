@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="sony" fetch="https://github.com/sonyxperiadev/" />
+<project path="kernel/sony/msm-6.6/common-headers" name="kernel-sony-msm-6.6-headers" groups="device" remote="sony" revision="aosp/K.P.4.0.r1" />
+<project path="kernel/sony/msm-6.6/common-kernel" name="kernel-sony-msm-6.6-common" groups="device" remote="sony" revision="aosp/K.P.4.0.r1" clone-depth="1"/>
+<project path="kernel/sony/msm-6.6/kernel" name="kernel" groups="device" remote="sony" revision="aosp/K.P.4.0.r1" />
+<project path="kernel/sony/msm-6.6/kernel/techpack/audio" name="vendor-qcom-opensource-audio-kernel-ar" groups="device" remote="sony" revision="audio-kernel-handset.lnx.10.0.r1-rel" />
+<project path="kernel/sony/msm-6.6/kernel/techpack/bt" name="vendor-qcom-opensource-bt-kernel" groups="device" remote="sony" revision="bt-kernel.lnx.15.0.r1-rel" />
+<project path="kernel/sony/msm-6.6/kernel/techpack/camera" name="vendor-qcom-opensource-camera-kernel" groups="device" remote="sony" revision="camera-kernel.lnx.8.0.r1-rel" />
+<project path="kernel/sony/msm-6.6/kernel/techpack/dataipa" name="vendor-qcom-opensource-dataipa" groups="device" remote="sony" revision="data-kernel.lnx.4.0.r1-rel" />
+<project path="kernel/sony/msm-6.6/kernel/techpack/datarmnet" name="vendor-qcom-opensource-datarmnet" groups="device" remote="sony" revision="data-kernel.lnx.4.0.r1-rel" />
+<project path="kernel/sony/msm-6.6/kernel/techpack/datarmnet-ext" name="vendor-qcom-opensource-datarmnet-ext" groups="device" remote="sony" revision="data-kernel.lnx.4.0.r1-rel" />
+<project path="kernel/sony/msm-6.6/kernel/techpack/display" name="vendor-qcom-opensource-display-drivers" groups="device" remote="sony" revision="display-kernel.lnx.11.0.r1-rel" />
+<project path="kernel/sony/msm-6.6/kernel/techpack/dsp" name="vendor-qcom-opensource-dsp-kernel" groups="device" remote="sony" revision="dsp-kernel.lnx.2.0.r1-rel" />
+<project path="kernel/sony/msm-6.6/kernel/techpack/eva" name="vendor-qcom-opensource-eva-kernel" groups="device" remote="sony" revision="eva-kernel.lnx.3.1.r1-rel" />
+<project path="kernel/sony/msm-6.6/kernel/techpack/graphics" name="vendor-qcom-opensource-graphics-kernel" groups="device" remote="sony" revision="gfx-kernel.lnx.1.0.r43-rel" />
+<project path="kernel/sony/msm-6.6/kernel/techpack/mm" name="vendor-qcom-opensource-mm-drivers" groups="device" remote="sony" revision="display-kernel.lnx.11.0.r1-rel" />
+<!--<project path="kernel/sony/msm-6.6/kernel/techpack/mm-sys" name="vendor-qcom-opensource-mm-sys-kernel" groups="device" remote="sony" revision="ubwcp-kernel.lnx.1.0.r3-rel" />-->
+<project path="kernel/sony/msm-6.6/kernel/techpack/mmrm" name="vendor-qcom-opensource-mmrm-driver" groups="device" remote="sony" revision="mmrm-kernel.lnx.5.0.r1-rel" />
+<project path="kernel/sony/msm-6.6/kernel/techpack/securemsm" name="vendor-qcom-opensource-securemsm-kernel" groups="device" remote="sony" revision="sec-kernel.lnx.14.0.r15-rel" />
+<project path="kernel/sony/msm-6.6/kernel/techpack/spu" name="vendor-qcom-opensource-spu-kernel" groups="device" remote="sony" revision="spu-kernel.lnx.2.0.r1-rel" />
+<project path="kernel/sony/msm-6.6/kernel/techpack/synx" name="vendor-qcom-opensource-synx-kernel" groups="device" remote="sony" revision="synx-kernel.lnx.2.0.r1-rel" />
+<!--<project path="kernel/sony/msm-6.6/kernel/techpack/video" name="vendor-qcom-opensource-video-driver" groups="device" remote="sony" revision="video-kernel.lnx.5.0.r1-rel" />-->
+<project path="kernel/sony/msm-6.6/kernel/techpack/wlan" name="vendor-qcom-opensource-wlan-platform" groups="device" remote="sony" revision="wlan-platform.lnx.1.0.r57-rel" />
+<project path="kernel/sony/msm-6.6/kernel/arch/arm64/configs/sony" name="kernel-defconfig" groups="device" remote="sony" revision="aosp/K.P.4.0.r1" />
+<project path="kernel/sony/msm-6.6/kernel/drivers/staging/wlan-qc/fw-api" name="vendor-qcom-opensource-wlan-fw-api" groups="device" remote="sony" revision="wlan-api.lnx.1.0.r231-rel" />
+<project path="kernel/sony/msm-6.6/kernel/drivers/staging/wlan-qc/qca-wifi-host-cmn" name="vendor-qcom-opensource-wlan-qca-wifi-host-cmn" groups="device" remote="sony" revision="wlan-cmn.driver.lnx.2.0.r153-rel" />
+<project path="kernel/sony/msm-6.6/kernel/drivers/staging/wlan-qc/qcacld-3.0" name="vendor-qcom-opensource-wlan-qcacld-3.0" groups="device" remote="sony" revision="wlan-cld3.driver.lnx.2.0.r155-rel" />
+</manifest>
