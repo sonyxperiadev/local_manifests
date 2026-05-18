@@ -20,6 +20,7 @@
 <project path="kernel/sony/msm-6.6/kernel/techpack/securemsm" name="vendor-qcom-opensource-securemsm-kernel" groups="device" remote="sony" revision="sec-kernel.lnx.14.0.r15-rel" />
 <project path="kernel/sony/msm-6.6/kernel/techpack/spu" name="vendor-qcom-opensource-spu-kernel" groups="device" remote="sony" revision="spu-kernel.lnx.2.0.r1-rel" />
 <project path="kernel/sony/msm-6.6/kernel/techpack/synx" name="vendor-qcom-opensource-synx-kernel" groups="device" remote="sony" revision="synx-kernel.lnx.2.0.r1-rel" />
+<project path="kernel/sony/msm-6.6/kernel/techpack/touch" name="vendor-sony-oss-touch-drivers" groups="device" remote="sony" revision="master" />
 <!--<project path="kernel/sony/msm-6.6/kernel/techpack/video" name="vendor-qcom-opensource-video-driver" groups="device" remote="sony" revision="video-kernel.lnx.5.0.r1-rel" />-->
 <project path="kernel/sony/msm-6.6/kernel/techpack/wlan" name="vendor-qcom-opensource-wlan-platform" groups="device" remote="sony" revision="wlan-platform.lnx.1.0.r57-rel" />
 <project path="kernel/sony/msm-6.6/kernel/arch/arm64/configs/sony" name="kernel-defconfig" groups="device" remote="sony" revision="aosp/K.P.4.0.r1" />
