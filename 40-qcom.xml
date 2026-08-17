@@ -20,6 +20,8 @@
 
 <project path="vendor/qcom/opensource/interfaces" name="vendor-qcom-opensource-interfaces" groups="device" remote="sony" revision="aosp/LA.QSSI.16.0.r1" />
 
+<project path="vendor/qcom/opensource/lights" name="vendor-qcom-opensource-lights" groups="device" remote="sony" revision="aosp/LA.VENDOR.15.4.0.r3" />
+
 <project path="vendor/qcom/opensource/usb" name="vendor-qcom-opensource-usb" groups="device" remote="sony" revision="aosp/LA.VENDOR.15.4.0.r1" />
 
 <project path="vendor/qcom/opensource/power" name="vendor-qcom-opensource-power" groups="device" remote="sony" revision="aosp/LA.VENDOR.15.4.0.r1" />
