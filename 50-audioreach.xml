@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="sony" fetch="https://github.com/sonyxperiadev/" />
+
+<project path="vendor/qcom/opensource/audioreach/conf" name="vendor-qcom-opensource-audioreach-conf" groups="device" remote="sony" revision="aosp/AUDIO.LA.10.0.r1" />
+<project path="vendor/qcom/opensource/audioreach/graphservices" name="vendor-qcom-opensource-audioreach-graphservices" groups="device" remote="sony" revision="aosp/AUDIO.LA.10.0.r1" />
+</manifest>

@@ -7,9 +7,6 @@
 <project path="vendor/qcom/opensource/gps" name="hardware-qcom-gps" groups="device" remote="sony" revision="aosp/LA.VENDOR.15.4.0.r1" />
 <project path="vendor/qcom/opensource/location" name="vendor-qcom-opensource-location" groups="device" remote="sony" revision="aosp/LA.VENDOR.15.4.0.r1" />
 
-<project path="vendor/qcom/opensource/audioreach-conf" name="vendor-qcom-opensource-audioreach-conf" groups="device" remote="sony" revision="aosp/AUDIO.LA.10.0.r1" />
-<project path="vendor/qcom/opensource/audioreach-graphservices" name="vendor-qcom-opensource-audioreach-graphservices" groups="device" remote="sony" revision="aosp/AUDIO.LA.10.0.r1" />
-
 <project path="vendor/qcom/opensource/agm" name="vendor-qcom-opensource-agm" groups="device" remote="sony" revision="aosp/AUDIO.LA.10.0.r1" />
 <project path="vendor/qcom/opensource/pal" name="vendor-qcom-opensource-arpal-lx" groups="device" remote="sony" revision="aosp/AUDIO.LA.10.0.r1" />
 
