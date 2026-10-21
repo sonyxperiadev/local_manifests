@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="sony" fetch="https://github.com/sonyxperiadev/" />
+
+<!-- Display -->
+<project path="vendor/qcom/opensource/display/sm8750" name="hardware-qcom-display" groups="device" remote="sony" revision="aosp/DISPLAY.LA.5.0.r1" />
+<project path="vendor/qcom/opensource/display-commonsys-intf/sm8750" name="vendor-qcom-opensource-commonsys-intf-display" groups="device" remote="sony" revision="aosp/LA.QSSI.16.0.r1" />
+<project path="vendor/qcom/opensource/display-core/sm8750" name="vendor-qcom-opensource-display-core" group="device" remote="sony" revision="aosp/DISPLAY.LA.5.0.r1" />
+<project path="vendor/qcom/opensource/display-intf/sm8750" name="vendor-qcom-opensource-display-intf" group="device" remote="sony" revision="aosp/DISPLAY.LA.5.0.r1" />
+</manifest>
