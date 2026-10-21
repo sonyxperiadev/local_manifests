@@ -8,7 +8,6 @@
 <project path="vendor/oss/qcrilam"  name="QcRilAm" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/release-keys" name="release-keys" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/simdetect" name="vendor-sony-oss-simdetect" groups="device" remote="sony" revision="master" />
-<project path="vendor/oss/thermanager" name="thermanager" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/timekeep" name="timekeep" groups="device" remote="sony" revision="master" />
 <project path="vendor/oss/repo_update" name="repo_update" groups="device" remote="sony" revision="master">
     <linkfile src="repo_update.sh" dest="repo_update.sh" />
