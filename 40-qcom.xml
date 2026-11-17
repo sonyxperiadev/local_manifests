@@ -15,6 +15,8 @@
 <project path="vendor/qcom/opensource/audio-hal/primary-hal-ar" name="vendor-qcom-opensource-audio-hal-primary-hal-ar" groups="device" remote="sony" revision="aosp/AUDIO.LA.10.0.r1" />
 <project path="vendor/qcom/opensource/audio-hal/st-hal-ar" name="vendor-qcom-opensource-audio-hal-st-hal-ar" groups="device" remote="sony" revision="aosp/AUDIO.LA.10.0.r1" />
 
+<project path="vendor/qcom/opensource/fastrpc" name="vendor-qcom-opensource-fastrpc" groups="device" remote="sony" revision="aosp/LA.VENDOR.16.2.6.r1" />
+
 <project path="vendor/qcom/opensource/dataservices" name="vendor-qcom-opensource-dataservices" groups="device" remote="sony" revision="aosp/LA.VENDOR.15.4.0.r1" />
 <project path="vendor/qcom/opensource/telephony" name="vendor-qcom-opensource-telephony" groups="device" remote="sony" revision="aosp/LA.QSSI.13.0.r1" />
 
