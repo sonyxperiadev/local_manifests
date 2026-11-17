@@ -37,4 +37,6 @@
 <project path="vendor/qcom/opensource/recovery-ext" name="vendor-qcom-opensource-recovery-ext" groups="device" remote="sony" revision="aosp/LA.VENDOR.15.4.0.r1" />
 
 <project path="vendor/qcom/opensource/time-services" name="vendor-qcom-opensource-time-services" groups="device" remote="sony" revision="aosp/LA.VENDOR.13.2.0.r1" />
+
+<project path="vendor/qcom/opensource/libvmmem" name="system-memory-libvmmem" groups="device" remote="sony" revision="aosp/lnx.4.0.r1-rel" />
 </manifest>
